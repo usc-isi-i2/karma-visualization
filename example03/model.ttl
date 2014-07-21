@@ -1,0 +1,121 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix k3: <http://karma.isi.edu/visualization/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node18tboe883x1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "dataset.json" ;
+	km-dev:modelPublicationTime "1405922779396"^^xsd:long ;
+	km-dev:modelVersion "1.6" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"instrument\"},{\"columnName\":\"values\"}],[{\"columnName\":\"@subject\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"instrument\"},{\"columnName\":\"line_uri\"}]]" ;
+	km-dev:hasModelLabel "example03" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory "[{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"example03\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"orderedColumns\",\"value\":[{\"id\":[{\"columnName\":\"@subject\"}],\"visible\":true,\"hideable\":false,\"name\":\"@subject\"},{\"id\":[{\"columnName\":\"associatedMusicalArtist\"}],\"visible\":false,\"hideable\":true,\"name\":\"associatedMusicalArtist\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"associatedMusicalArtist\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"background\"}],\"visible\":false,\"hideable\":true,\"name\":\"background\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"background\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"birthDate\"}],\"visible\":false,\"hideable\":true,\"name\":\"birthDate\"},{\"id\":[{\"columnName\":\"birthName\"}],\"visible\":false,\"hideable\":true,\"name\":\"birthName\"},{\"id\":[{\"columnName\":\"birthPlace\"}],\"visible\":false,\"hideable\":true,\"name\":\"birthPlace\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"birthPlace\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"foaf:depiction\"}],\"visible\":false,\"hideable\":true,\"name\":\"foaf:depiction\"},{\"id\":[{\"columnName\":\"foaf:name\"}],\"visible\":false,\"hideable\":true,\"name\":\"foaf:name\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"foaf:name\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"genre\"}],\"visible\":false,\"hideable\":true,\"name\":\"genre\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"genre\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"hometown\"}],\"visible\":false,\"hideable\":true,\"name\":\"hometown\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"hometown\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"instrument\"}],\"visible\":true,\"hideable\":false,\"name\":\"instrument\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"instrument\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":false,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"occupation\"}],\"visible\":false,\"hideable\":true,\"name\":\"occupation\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"occupation\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"placeOfBirth\"}],\"visible\":false,\"hideable\":true,\"name\":\"placeOfBirth\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"placeOfBirth\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"recordLabel\"}],\"visible\":false,\"hideable\":true,\"name\":\"recordLabel\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"recordLabel\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"wikiPageExternalLink\"}],\"visible\":false,\"hideable\":true,\"name\":\"wikiPageExternalLink\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"wikiPageExternalLink\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"yearsActive\"}],\"visible\":false,\"hideable\":true,\"name\":\"yearsActive\"},{\"id\":[{\"columnName\":\"associatedBand\"}],\"visible\":false,\"hideable\":true,\"name\":\"associatedBand\"}],\"type\":\"orderedColumns\"}],\"commandName\":\"OrganizeColumnsCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"example02\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"metaPropertyName\",\"value\":\"isUriOfClass\",\"type\":\"other\"},{\"name\":\"metaPropertyValue\",\"value\":\"http://karma.isi.edu/visualization/Circle\",\"type\":\"other\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"instrument\"},{\"columnName\":\"values\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"FullType\":\"http://isi.edu/integration/karma/dev#classLink\",\"isPrimary\":true,\"DomainLabel\":\"k3:Circle1 (add)\",\"DomainId\":\"http://karma.isi.edu/visualization/Circle1 (add)\",\"DomainUri\":\"http://karma.isi.edu/visualization/Circle\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetMetaPropertyCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"example01\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"metaPropertyName\",\"value\":\"isUriOfClass\",\"type\":\"other\"},{\"name\":\"metaPropertyValue\",\"value\":\"http://karma.isi.edu/visualization/Circle\",\"type\":\"other\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"instrument\"},{\"columnName\":\"values\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"isPrimary\":true,\"FullType\":\"http://isi.edu/integration/karma/dev#classLink\",\"DomainLabel\":\"k3:Circle1 (add)\",\"DomainId\":\"http://karma.isi.edu/visualization/Circle1 (add)\",\"DomainUri\":\"http://karma.isi.edu/visualization/Circle\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetMetaPropertyCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"alignmentNodeId\",\"value\":\"http://karma.isi.edu/visualization/Circle2\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"WS1\",\"type\":\"other\"}],\"commandName\":\"ExportJSONCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"metaPropertyName\",\"value\":\"isUriOfClass\",\"type\":\"other\"},{\"name\":\"metaPropertyValue\",\"value\":\"http://karma.isi.edu/visualization/Circle\",\"type\":\"other\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"@subject\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"FullType\":\"http://isi.edu/integration/karma/dev#classLink\",\"isPrimary\":true,\"DomainLabel\":\"k3:Circle3 (add)\",\"DomainId\":\"http://karma.isi.edu/visualization/Circle3 (add)\",\"DomainUri\":\"http://karma.isi.edu/visualization/Circle\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetMetaPropertyCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"initialEdges\",\"value\":[{\"edgeId\":\"http://karma.isi.edu/visualization/target\",\"edgeSourceId\":\"http://karma.isi.edu/visualization/Line1\",\"edgeTargetId\":\"http://karma.isi.edu/visualization/Circle3\"}],\"type\":\"other\"},{\"name\":\"alignmentId\",\"value\":\"WSP6:WS1AL\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"newEdges\",\"value\":[{\"edgeTargetUri\":\"http://karma.isi.edu/visualization/Circle\",\"edgeId\":\"http://karma.isi.edu/visualization/source\",\"edgeSourceId\":\"http://karma.isi.edu/visualization/Line1\",\"edgeTargetId\":\"http://karma.isi.edu/visualization/Circle3\",\"edgeSourceUri\":\"http://karma.isi.edu/visualization/Line\"}],\"type\":\"other\"}],\"commandName\":\"ChangeInternalNodeLinksCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"initialEdges\",\"value\":[{\"edgeId\":\"http://karma.isi.edu/visualization/target\",\"edgeSourceId\":\"http://karma.isi.edu/visualization/Line1\",\"edgeTargetId\":\"http://karma.isi.edu/visualization/Circle2\"}],\"type\":\"other\"},{\"name\":\"alignmentId\",\"value\":\"WSP6:WS1AL\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"newEdges\",\"value\":[{\"edgeTargetUri\":\"http://karma.isi.edu/visualization/Circle\",\"edgeId\":\"http://karma.isi.edu/visualization/target\",\"edgeSourceId\":\"http://karma.isi.edu/visualization/Line1\",\"edgeTargetId\":\"http://karma.isi.edu/visualization/Circle2\",\"edgeSourceUri\":\"http://karma.isi.edu/visualization/Line\"}],\"type\":\"other\"}],\"commandName\":\"ChangeInternalNodeLinksCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"example02\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"orderedColumns\",\"value\":[{\"id\":[{\"columnName\":\"@subject\"}],\"visible\":true,\"hideable\":false,\"name\":\"@subject\"},{\"id\":[{\"columnName\":\"associatedMusicalArtist\"}],\"visible\":false,\"hideable\":true,\"name\":\"associatedMusicalArtist\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"associatedMusicalArtist\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"background\"}],\"visible\":false,\"hideable\":true,\"name\":\"background\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"background\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"birthDate\"}],\"visible\":false,\"hideable\":true,\"name\":\"birthDate\"},{\"id\":[{\"columnName\":\"birthName\"}],\"visible\":false,\"hideable\":true,\"name\":\"birthName\"},{\"id\":[{\"columnName\":\"birthPlace\"}],\"visible\":false,\"hideable\":true,\"name\":\"birthPlace\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"birthPlace\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"foaf:depiction\"}],\"visible\":false,\"hideable\":true,\"name\":\"foaf:depiction\"},{\"id\":[{\"columnName\":\"foaf:name\"}],\"visible\":false,\"hideable\":true,\"name\":\"foaf:name\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"foaf:name\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"genre\"}],\"visible\":false,\"hideable\":true,\"name\":\"genre\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"genre\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"hometown\"}],\"visible\":false,\"hideable\":true,\"name\":\"hometown\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"hometown\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"instrument\"}],\"visible\":true,\"hideable\":false,\"name\":\"instrument\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"instrument\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":false,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"occupation\"}],\"visible\":false,\"hideable\":true,\"name\":\"occupation\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"occupation\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"placeOfBirth\"}],\"visible\":false,\"hideable\":true,\"name\":\"placeOfBirth\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"placeOfBirth\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"recordLabel\"}],\"visible\":false,\"hideable\":true,\"name\":\"recordLabel\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"recordLabel\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"wikiPageExternalLink\"}],\"visible\":false,\"hideable\":true,\"name\":\"wikiPageExternalLink\",\"children\":\"[{\\\"id\\\":[{\\\"columnName\\\":\\\"wikiPageExternalLink\\\"},{\\\"columnName\\\":\\\"values\\\"}],\\\"visible\\\":true,\\\"hideable\\\":true,\\\"name\\\":\\\"values\\\"}]\"},{\"id\":[{\"columnName\":\"yearsActive\"}],\"visible\":false,\"hideable\":true,\"name\":\"yearsActive\"},{\"id\":[{\"columnName\":\"associatedBand\"}],\"visible\":false,\"hideable\":true,\"name\":\"associatedBand\"}],\"type\":\"orderedColumns\"}],\"commandName\":\"OrganizeColumnsCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"newColumnName\",\"value\":\"line_uri\",\"type\":\"other\"},{\"name\":\"transformationCode\",\"value\":\"return urlLast(getValue(\\\"@subject\\\"))+\\\"___\\\"+urlLast(getValue(\\\"values\\\"))\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"instrument\"},{\"columnName\":\"values\"}],\"type\":\"hNodeId\"},{\"name\":\"errorDefaultValue\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SubmitPythonTransformationCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"metaPropertyName\",\"value\":\"isUriOfClass\",\"type\":\"other\"},{\"name\":\"metaPropertyValue\",\"value\":\"http://karma.isi.edu/visualization/Line1\",\"type\":\"other\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"instrument\"},{\"columnName\":\"line_uri\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"FullType\":\"http://isi.edu/integration/karma/dev#classLink\",\"isPrimary\":true,\"DomainLabel\":\"k3:Line1\",\"DomainId\":\"http://karma.isi.edu/visualization/Line1\",\"DomainUri\":\"http://karma.isi.edu/visualization/Line\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetMetaPropertyCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"example03\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"}]" .
+
+km-dev:TriplesMap_f6926a10-b551-4080-b462-77aba508fa87 a rr:TriplesMap .
+
+_:node18tboe883x1 km-dev:hasTriplesMap km-dev:TriplesMap_f6926a10-b551-4080-b462-77aba508fa87 .
+
+km-dev:TriplesMap_f6926a10-b551-4080-b462-77aba508fa87 km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x2 rr:tableName "dataset.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x1 km-dev:hasLogicalTable _:node18tboe883x2 .
+
+km-dev:TriplesMap_f6926a10-b551-4080-b462-77aba508fa87 rr:logicalTable _:node18tboe883x2 ;
+	rr:subjectMap _:node18tboe883x3 .
+
+_:node18tboe883x1 km-dev:hasSubjectMap _:node18tboe883x3 .
+
+_:node18tboe883x3 km-dev:isPartOfMapping _:node18tboe883x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://karma.isi.edu/visualization/Circle2" ;
+	rr:class k3:Circle ;
+	rr:template "{[\"instrument\",\"values\"]}" .
+
+km-dev:TriplesMap_2ff2f54a-1040-486b-aec0-6b65cc76f06f a rr:TriplesMap .
+
+_:node18tboe883x1 km-dev:hasTriplesMap km-dev:TriplesMap_2ff2f54a-1040-486b-aec0-6b65cc76f06f .
+
+km-dev:TriplesMap_2ff2f54a-1040-486b-aec0-6b65cc76f06f km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x4 rr:tableName "dataset.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x1 km-dev:hasLogicalTable _:node18tboe883x4 .
+
+km-dev:TriplesMap_2ff2f54a-1040-486b-aec0-6b65cc76f06f rr:logicalTable _:node18tboe883x4 ;
+	rr:subjectMap _:node18tboe883x5 .
+
+_:node18tboe883x1 km-dev:hasSubjectMap _:node18tboe883x5 .
+
+_:node18tboe883x5 km-dev:isPartOfMapping _:node18tboe883x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://karma.isi.edu/visualization/Circle3" ;
+	rr:class k3:Circle ;
+	rr:template "{@subject}" .
+
+km-dev:TriplesMap_ddd54fb7-1e2f-47cf-b65a-cd89f9a7c5e8 a rr:TriplesMap .
+
+_:node18tboe883x1 km-dev:hasTriplesMap km-dev:TriplesMap_ddd54fb7-1e2f-47cf-b65a-cd89f9a7c5e8 .
+
+km-dev:TriplesMap_ddd54fb7-1e2f-47cf-b65a-cd89f9a7c5e8 km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x6 rr:tableName "dataset.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x1 km-dev:hasLogicalTable _:node18tboe883x6 .
+
+km-dev:TriplesMap_ddd54fb7-1e2f-47cf-b65a-cd89f9a7c5e8 rr:logicalTable _:node18tboe883x6 ;
+	rr:subjectMap _:node18tboe883x7 .
+
+_:node18tboe883x1 km-dev:hasSubjectMap _:node18tboe883x7 .
+
+_:node18tboe883x7 km-dev:isPartOfMapping _:node18tboe883x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://karma.isi.edu/visualization/Line1" ;
+	rr:class k3:Line ;
+	rr:template "{[\"instrument\",\"line_uri\"]}" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_1b5c57eb-0c48-4d71-a63e-9eece81970c5 rr:predicate k3:source .
+
+km-dev:RefObjectMap_85d2e075-bde3-4d6c-ac5e-a4db36ddbeca a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_2ff2f54a-1040-486b-aec0-6b65cc76f06f ;
+	km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x1 km-dev:hasObjectMap km-dev:RefObjectMap_85d2e075-bde3-4d6c-ac5e-a4db36ddbeca .
+
+km-dev:PredicateObjectMap_1b5c57eb-0c48-4d71-a63e-9eece81970c5 rr:objectMap km-dev:RefObjectMap_85d2e075-bde3-4d6c-ac5e-a4db36ddbeca .
+
+km-dev:TriplesMap_ddd54fb7-1e2f-47cf-b65a-cd89f9a7c5e8 rr:predicateObjectMap km-dev:PredicateObjectMap_1b5c57eb-0c48-4d71-a63e-9eece81970c5 .
+
+km-dev:PredicateObjectMap_1b5c57eb-0c48-4d71-a63e-9eece81970c5 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_1b5c57eb-0c48-4d71-a63e-9eece81970c5 .
+
+km-dev:PredicateObjectMap_e6366e74-8dcc-468a-a5cd-cedfbdb493b3 rr:predicate k3:target .
+
+km-dev:RefObjectMap_47518be8-4ac5-4d62-8b25-cf6dd280dde6 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_f6926a10-b551-4080-b462-77aba508fa87 ;
+	km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x1 km-dev:hasObjectMap km-dev:RefObjectMap_47518be8-4ac5-4d62-8b25-cf6dd280dde6 .
+
+km-dev:PredicateObjectMap_e6366e74-8dcc-468a-a5cd-cedfbdb493b3 rr:objectMap km-dev:RefObjectMap_47518be8-4ac5-4d62-8b25-cf6dd280dde6 .
+
+km-dev:TriplesMap_ddd54fb7-1e2f-47cf-b65a-cd89f9a7c5e8 rr:predicateObjectMap km-dev:PredicateObjectMap_e6366e74-8dcc-468a-a5cd-cedfbdb493b3 .
+
+km-dev:PredicateObjectMap_e6366e74-8dcc-468a-a5cd-cedfbdb493b3 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node18tboe883x1 .
+
+_:node18tboe883x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e6366e74-8dcc-468a-a5cd-cedfbdb493b3 .

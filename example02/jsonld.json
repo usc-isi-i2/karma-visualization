@@ -1,0 +1,966 @@
+[
+  {
+    "@id": "http://dbpedia.org/resource/Andi_Deris",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Amon_Tobin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Rickenbacker_4001",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Rapping",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Albert_Hammond",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Adrian_Gurvitz",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Aimee_Mann",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Vocals",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Aaron_Tippin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Aisha_Kahlil",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Alva_Noto",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Double_bass",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Jazz_Bass",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Alan_Lancaster",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Annette_Humpe",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_Explorer",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Keyboard_instrument",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_ES-335",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Am%C3%A9rico",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Trombone",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Stratocaster",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Al_Kooper",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Music_Production_Center",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Alan_Silva",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Aki_Takase",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Rocky_Mount_Instruments",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Albert_Mangelsdorff",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Aesop_Rock",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_Firebird",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Alvin_Lee",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Master_of_ceremonies",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Baritone_guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Electric_violin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_Les_Paul",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Autoharp",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Anna_Vissi",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Al_Jardine",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Adolfo_de_la_Parra",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/VocalsGuitar_Keyboards",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Aca_Lukas",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Sarangi",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Alberta_Hunter",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Drums",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Acoustic_guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ahmet_%C3%96zhan",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Bass_guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Piano",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ann_Wilson",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Violin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Saxophone",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Guitarvocals_bass_keyboards_percussion_mandolin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Synthesizerskeyboards_guitar_bassguitar_drums_saxophone_theremin_chapmanstick_drummachine_sampler",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Al_Anderson_(The_Wailers)",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Drum_kit",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ana_Caram",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Andrew_Loog_Oldham",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Alexander_Hacke",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Adam_Yauch",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Mandolin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Sitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Allen_Collins",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Andy_McKee",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Vox_Continental",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ai_Otsuka",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Alan_Price",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Electronic_keyboard",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Adam_Faith",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Vocalsguitar_piano/keyboard",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Telecaster",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Trumpet",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Adrian_Borland",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Musical_Instruments_Corporation",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Albert_Lee",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Harp_guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Percussion_instrument",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Albano_Carrisi",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Al_Hibbler",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Synthesizer",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Human_voice",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "_:f4214443024b1",
+    "@type": [
+      "http://karma.isi.edu/visualization/Line"
+    ],
+    "http://karma.isi.edu/visualization/source": [
+      {
+        "@id": "http://dbpedia.org/resource/Adam_Yauch"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Allen_Collins"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Albert_Mangelsdorff"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Al_Anderson_(The_Wailers)"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Anita_Doth"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Anne_Clark"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Anna_Abreu"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Adel_Tawil"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Adolfo_de_la_Parra"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Alan_Silva"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Andy_Partridge"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Al_Jardine"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Am%C3%A9rico"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Andrew_Loog_Oldham"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Albert_Hammond"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Adrian_Borland"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Amon_Tobin"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Albert_Lee"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Adrian_Gurvitz"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Al_Kooper"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Ai_Otsuka"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Andy_McCluskey"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Aesop_Rock"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Aca_Lukas"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Alberta_Hunter"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Afrika_Bambaataa"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Alexander_Hacke"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Al_Hibbler"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Ann_Wilson"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Aimee_Mann"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Alvin_Lee"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Alva_Noto"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Andy_McKee"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Ana_Caram"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Aki_Takase"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Aaron_Tippin"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Albano_Carrisi"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Anna_Vissi"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Amy_Grant"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Andi_Deris"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Aisha_Kahlil"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Alla_Rakha"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Annette_Humpe"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Alan_Lancaster"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Alan_Price"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Adam_Faith"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Ahmet_%C3%96zhan"
+      }
+    ],
+    "http://karma.isi.edu/visualization/target": [
+      {
+        "@id": "http://dbpedia.org/resource/Vocal_music"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Sitar"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Gibson_J-200"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Mandolin"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Trumpet"
+      },
+      {
+        "@id": "http://localhost:8080/source/Voice"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Fender_Jazz_Bass"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Gibson_ES-335"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Violin"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Rocky_Mount_Instruments"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Acoustic_guitar"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Electric_violin"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Piano"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Tabla"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Fender_Musical_Instruments_Corporation"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Ernie_Ball"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Disc_jockey"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Electronic_keyboard"
+      },
+      {
+        "@id": "http://localhost:8080/source/Guitarpiano"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Drum_kit"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Human_voice"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Saxophone"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Guitar"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Singing"
+      },
+      {
+        "@id": "http://localhost:8080/source/VocalsGuitar_Keyboards"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Music_Production_Center"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Rickenbacker_4001"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Fender_Jaguar"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Fender_Telecaster"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Percussion_instrument"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Banjo"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Gibson_Firebird"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Synthesizer"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Sarangi"
+      },
+      {
+        "@id": "http://localhost:8080/source/Drums"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Keyboard_instrument"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Gibson_Explorer"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Autoharp"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Rapping"
+      },
+      {
+        "@id": "http://localhost:8080/source/Synthesizerskeyboards_guitar_bassguitar_drums_saxophone_theremin_chapmanstick_drummachine_sampler"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Harp_guitar"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Hi-hat"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Music_sequencer"
+      },
+      {
+        "@id": "http://localhost:8080/source/Vocalsguitar_piano/keyboard"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Trombone"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Master_of_ceremonies"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Bass_guitar"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Baritone_guitar"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Flute"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Vox_Continental"
+      },
+      {
+        "@id": "http://localhost:8080/source/MCvocals_bassguitar_keyboards"
+      },
+      {
+        "@id": "http://localhost:8080/source/Vocalsguitar_bass_sitar"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Fender_Stratocaster"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Gibson_Les_Paul"
+      },
+      {
+        "@id": "http://localhost:8080/source/Guitarvocals_bass_keyboards_percussion_mandolin"
+      },
+      {
+        "@id": "http://localhost:8080/source/Vocals"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Ukulele"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Double_bass"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/Laptop"
+      }
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Jaguar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Guitarpiano",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Tabla",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ernie_Ball",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Laptop",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Anne_Clark",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Afrika_Bambaataa",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Flute",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Andy_McCluskey",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Vocalsguitar_bass_sitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Vocal_music",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Anita_Doth",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Banjo",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Voice",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Music_sequencer",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Singing",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Adel_Tawil",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Amy_Grant",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Andy_Partridge",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Anna_Abreu",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Hi-hat",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ukulele",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Alla_Rakha",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/MCvocals_bassguitar_keyboards",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Disc_jockey",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_J-200",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  }
+]

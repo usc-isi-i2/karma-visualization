@@ -1,0 +1,452 @@
+<http://dbpedia.org/resource/Aaron_Tippin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Acoustic_guitar> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Aaron_Tippin> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Acoustic_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://dbpedia.org/resource/Aca_Lukas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Piano> .
+<http://dbpedia.org/resource/Piano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Aca_Lukas> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://dbpedia.org/resource/Human_voice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Adam_Faith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Human_voice> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Adam_Faith> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Master_of_ceremonies> .
+<http://localhost:8080/source/MCvocals_bassguitar_keyboards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Bass_guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/MCvocals_bassguitar_keyboards> .
+<http://dbpedia.org/resource/Bass_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Master_of_ceremonies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Adam_Yauch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Adam_Yauch> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Adel_Tawil> .
+<http://dbpedia.org/resource/Adel_Tawil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Adolfo_de_la_Parra> .
+<http://localhost:8080/source/Drums> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Adolfo_de_la_Parra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Drums> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Adrian_Borland> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Adrian_Borland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://localhost:8080/source/Guitarpiano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Adrian_Gurvitz> .
+<http://dbpedia.org/resource/Adrian_Gurvitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Guitarpiano> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+<http://dbpedia.org/resource/Synthesizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Music_Production_Center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Music_sequencer> .
+<http://dbpedia.org/resource/Music_sequencer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Aesop_Rock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Rapping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Rapping> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Music_Production_Center> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Aesop_Rock> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Synthesizer> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://dbpedia.org/resource/Synthesizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Disc_jockey> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Afrika_Bambaataa> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Electronic_keyboard> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Synthesizer> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Disc_jockey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Electronic_keyboard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Afrika_Bambaataa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://localhost:8080/source/Vocals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Ahmet_%C3%96zhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Vocals> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Ahmet_%C3%96zhan> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Piano> .
+<http://dbpedia.org/resource/Piano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Ai_Otsuka> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Ai_Otsuka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+<http://dbpedia.org/resource/Hi-hat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Bass_guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Aimee_Mann> .
+<http://dbpedia.org/resource/Aimee_Mann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Hi-hat> .
+<http://dbpedia.org/resource/Bass_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Voice> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Aisha_Kahlil> .
+<http://localhost:8080/source/Voice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Aisha_Kahlil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Piano> .
+<http://dbpedia.org/resource/Piano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Aki_Takase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Aki_Takase> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Al_Anderson_(The_Wailers)> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Al_Anderson_(The_Wailers)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Al_Hibbler> .
+<http://dbpedia.org/resource/Human_voice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Human_voice> .
+<http://dbpedia.org/resource/Al_Hibbler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+<http://dbpedia.org/resource/Ukulele> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Piano> .
+<http://dbpedia.org/resource/Synthesizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Mandolin> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Bass_guitar> .
+<http://dbpedia.org/resource/Saxophone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Fender_Jaguar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Banjo> .
+<http://dbpedia.org/resource/Al_Jardine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Ukulele> .
+<http://dbpedia.org/resource/Double_bass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Drum_kit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Bass_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Fender_Telecaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Piano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Banjo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Fender_Musical_Instruments_Corporation> .
+<http://dbpedia.org/resource/Fender_Musical_Instruments_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Percussion_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Electronic_keyboard> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Saxophone> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Percussion_instrument> .
+<http://dbpedia.org/resource/Fender_Jaguar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Fender_Telecaster> .
+<http://dbpedia.org/resource/Mandolin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Synthesizer> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Drum_kit> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Al_Jardine> .
+<http://dbpedia.org/resource/Electronic_keyboard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Double_bass> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Al_Kooper> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Guitarvocals_bass_keyboards_percussion_mandolin> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://localhost:8080/source/Guitarvocals_bass_keyboards_percussion_mandolin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Al_Kooper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Bass_guitar> .
+<http://dbpedia.org/resource/Drum_kit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Bass_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Alan_Lancaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Drum_kit> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Alan_Lancaster> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+<http://dbpedia.org/resource/Vox_Continental> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Bass_guitar> .
+<http://dbpedia.org/resource/Rocky_Mount_Instruments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Bass_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Alan_Price> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Rocky_Mount_Instruments> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Alan_Price> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Vox_Continental> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Trumpet> .
+<http://dbpedia.org/resource/Sarangi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Electric_violin> .
+<http://dbpedia.org/resource/Trumpet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Double_bass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Electronic_keyboard> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Sarangi> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Alan_Silva> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Electric_violin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Electronic_keyboard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Alan_Silva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Double_bass> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Albano_Carrisi> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Albano_Carrisi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Piano> .
+<http://dbpedia.org/resource/Albert_Hammond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Piano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Albert_Hammond> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Piano> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Albert_Lee> .
+<http://dbpedia.org/resource/Ernie_Ball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Mandolin> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Fender_Stratocaster> .
+<http://dbpedia.org/resource/Gibson_J-200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Gibson_Les_Paul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Albert_Lee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Fender_Stratocaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Gibson_J-200> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Fender_Telecaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Piano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Fender_Telecaster> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Ernie_Ball> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Gibson_Les_Paul> .
+<http://dbpedia.org/resource/Mandolin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Trombone> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Violin> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Trombone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Albert_Mangelsdorff> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Violin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Albert_Mangelsdorff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://dbpedia.org/resource/Human_voice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Alberta_Hunter> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Human_voice> .
+<http://dbpedia.org/resource/Alberta_Hunter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Bass_guitar> .
+<http://dbpedia.org/resource/Bass_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Alexander_Hacke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Alexander_Hacke> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+
+<http://dbpedia.org/resource/Tabla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Alla_Rakha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Tabla> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Alla_Rakha> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+<http://dbpedia.org/resource/Allen_Collins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Fender_Stratocaster> .
+<http://dbpedia.org/resource/Gibson_Explorer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Fender_Stratocaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Allen_Collins> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Gibson_Firebird> .
+<http://dbpedia.org/resource/Gibson_Firebird> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Gibson_Explorer> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+<http://dbpedia.org/resource/Synthesizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Alva_Noto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Percussion_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Electronic_keyboard> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Laptop> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Alva_Noto> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Percussion_instrument> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Synthesizer> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Electronic_keyboard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Laptop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://dbpedia.org/resource/Alvin_Lee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Alvin_Lee> .
+<http://dbpedia.org/resource/Gibson_ES-335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://localhost:8080/source/Vocalsguitar_bass_sitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Sitar> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Gibson_ES-335> .
+<http://dbpedia.org/resource/Sitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Vocalsguitar_bass_sitar> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Am%C3%A9rico> .
+<http://dbpedia.org/resource/Am%C3%A9rico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Vocal_music> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Vocal_music> .
+
+<http://localhost:8080/source/Synthesizerskeyboards_guitar_bassguitar_drums_saxophone_theremin_chapmanstick_drummachine_sampler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Amon_Tobin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Synthesizerskeyboards_guitar_bassguitar_drums_saxophone_theremin_chapmanstick_drummachine_sampler> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Amon_Tobin> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Vocalsguitar_piano/keyboard> .
+<http://dbpedia.org/resource/Amy_Grant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Amy_Grant> .
+<http://localhost:8080/source/Vocalsguitar_piano/keyboard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://dbpedia.org/resource/Ana_Caram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Ana_Caram> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/VocalsGuitar_Keyboards> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Andi_Deris> .
+<http://dbpedia.org/resource/Human_voice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Human_voice> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Andi_Deris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://localhost:8080/source/VocalsGuitar_Keyboards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Andrew_Loog_Oldham> .
+<http://dbpedia.org/resource/Andrew_Loog_Oldham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+<http://dbpedia.org/resource/Fender_Jazz_Bass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Bass_guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Rickenbacker_4001> .
+<http://dbpedia.org/resource/Andy_McCluskey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Bass_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Fender_Jazz_Bass> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Andy_McCluskey> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Rickenbacker_4001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Harp_guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Andy_McKee> .
+<http://dbpedia.org/resource/Harp_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Baritone_guitar> .
+<http://dbpedia.org/resource/Andy_McKee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Baritone_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Piano> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Andy_Partridge> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Andy_Partridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Piano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+
+<http://dbpedia.org/resource/Anita_Doth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Anita_Doth> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Guitar> .
+<http://dbpedia.org/resource/Ann_Wilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Bass_guitar> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Autoharp> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Violin> .
+<http://dbpedia.org/resource/Bass_guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+<http://dbpedia.org/resource/Percussion_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Flute> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Percussion_instrument> .
+<http://dbpedia.org/resource/Flute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Ann_Wilson> .
+<http://dbpedia.org/resource/Violin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Autoharp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+<http://dbpedia.org/resource/Human_voice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Human_voice> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Anna_Abreu> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+<http://dbpedia.org/resource/Anna_Abreu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Anna_Vissi> .
+<http://localhost:8080/source/Vocals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://dbpedia.org/resource/Anna_Vissi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://localhost:8080/source/Vocals> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+
+<http://dbpedia.org/resource/Anne_Clark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Anne_Clark> .
+
+_:k3_Line1 <http://karma.isi.edu/visualization/source> <http://dbpedia.org/resource/Annette_Humpe> .
+<http://dbpedia.org/resource/Annette_Humpe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Keyboard_instrument> .
+<http://dbpedia.org/resource/Singing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+_:k3_Line1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Line> .
+_:k3_Line1 <http://karma.isi.edu/visualization/target> <http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Keyboard_instrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+
