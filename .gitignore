@@ -1,5 +1,5 @@
-AlignmentGraph/*
-CRF_Models/*
-JSON/*
-R2RML/*
-UserUploadedFiles/*
+k3/AlignmentGraph/*
+k3/CRF_Models/*
+k3/JSON/*
+k3/R2RML/*
+k3/UserUploadedFiles/*
