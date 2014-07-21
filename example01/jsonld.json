@@ -1,0 +1,356 @@
+[
+  {
+    "@id": "http://dbpedia.org/resource/Master_of_ceremonies",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Baritone_guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Musical_Instruments_Corporation",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Electric_violin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_Les_Paul",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Vox_Continental",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Autoharp",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Laptop",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Electronic_keyboard",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Banjo",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Drums",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Vocalsguitar_piano/keyboard",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/MCvocals_bassguitar_keyboards",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Telecaster",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Rapping",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ernie_Ball",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Sarangi",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Vocals",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/VocalsGuitar_Keyboards",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Double_bass",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Trombone",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Voice",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Trumpet",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Music_sequencer",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Rickenbacker_4001",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Jazz_Bass",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Harp_guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Percussion_instrument",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_Explorer",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Keyboard_instrument",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Acoustic_guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_ES-335",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Synthesizer",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Human_voice",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Hi-hat",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Piano",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Jaguar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Ukulele",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Guitarvocals_bass_keyboards_percussion_mandolin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Guitarpiano",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Fender_Stratocaster",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_Firebird",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Violin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Saxophone",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Gibson_J-200",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Bass_guitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Synthesizerskeyboards_guitar_bassguitar_drums_saxophone_theremin_chapmanstick_drummachine_sampler",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Tabla",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Music_Production_Center",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Drum_kit",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://localhost:8080/source/Vocalsguitar_bass_sitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Vocal_music",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Disc_jockey",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Rocky_Mount_Instruments",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Singing",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Mandolin",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Sitar",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  },
+  {
+    "@id": "http://dbpedia.org/resource/Flute",
+    "@type": [
+      "http://karma.isi.edu/visualization/Circle"
+    ]
+  }
+]

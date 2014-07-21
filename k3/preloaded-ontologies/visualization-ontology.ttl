@@ -1,0 +1,70 @@
+@prefix k3: <http://karma.isi.edu/visualization/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://karma.isi.edu/visualization/> rdf:type owl:Ontology .
+
+
+#########################################################
+#
+# Classes
+#
+#########################################################
+
+k3:Shape rdf:type owl:Class ;
+    rdfs:comment "Represents an arbitrary D3 shape." 
+    .
+
+
+k3:Circle rdf:type owl:Class ; 
+	rdfs:subClassOf k3:Shape ;
+	rdfs:comment "Represents a D3 circle." 
+	.
+
+
+k3:Line rdf:type owl:Class ;
+	rdfs:subClassOf k3:Shape ;
+	rdfs:comment "Represents a D3 line." 
+	.
+
+
+#########################################################
+#
+# Object Properties
+#
+#########################################################
+
+k3:source rdf:type owl:ObjectProperty ; 
+	rdfs:domain k3:Line ; 
+	rdfs:range k3:Shape ;
+	rdfs:comment "Specifies the starting point of a Line." 
+	.
+
+
+k3:target rdf:type owl:ObjectProperty ; 
+	rdfs:domain k3:Line ; 
+	rdfs:range k3:Shape ;
+	rdfs:comment "Specifies the ending point of a Line." 
+	.
+
+
+#########################################################
+#
+# Data Properties
+#
+#########################################################
+
+k3:fillColor rdf:type owl:DatatypeProperty ; 
+	rdfs:domain k3:Shape ;
+	rdfs:comment "A literal value that will determine the fill color of a shape." 
+	.
+
+
+k3:size rdf:type owl:DatatypeProperty ; 
+	rdfs:domain k3:Shape ;
+	rdfs:comment "A literal value that will determine the size of a shape." 
+	.
+
+

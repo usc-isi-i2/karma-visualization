@@ -1,0 +1,2058 @@
+[
+  {
+    "@subject": "http://dbpedia.org/resource/Aaron_Tippin",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Mark_Collie",
+      "http://dbpedia.org/resource/David_Ball_(country_singer)"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/c/c6/Aaron_Tippin_(army_1).jpg",
+    "foaf:name": "Aaron Tippin",
+    "hometown": "http://dbpedia.org/resource/Travelers_Rest,_South_Carolina",
+    "wikiPageExternalLink": "http://www.aarontippin.com",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1958-07-03T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Florida",
+      "http://dbpedia.org/resource/Pensacola,_Florida"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Acoustic_guitar",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Acoustic_guitar",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/RCA_Records",
+      "http://dbpedia.org/resource/Rust_Nashville",
+      "http://dbpedia.org/resource/Lyric_Street_Records"
+    ],
+    "birthName": "Aaron Dupree Tippin",
+    "genre": "http://dbpedia.org/resource/Country_music",
+    "occupation": "http://dbpedia.org/resource/Singer-songwriter",
+    "placeOfBirth": "Pensacola, Florida, United States",
+    "yearsActive": 1990
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Aca_Lukas",
+    "recordLabel": [
+      "http://dbpedia.org/resource/City_Records",
+      "http://dbpedia.org/resource/Grand_Production"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/c/ca/Folkno.1.jpg",
+    "foaf:name": [
+      "Aca Lukas",
+      "Aleksandar Vuksanović"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.youtube.com/user/AcaLukasKanal/",
+      "http://acalukas.bloger.hr/",
+      "http://www.yugomania.com/forum/aca-lukas-diskografija-t188.0.html",
+      "http://www.aca-lukas.com",
+      "http://acalukas.great-forum.com/forum.htm",
+      "http://acalukas.yugotube.net/"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Viktorija",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1968-11-03T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Yugoslavia",
+      "http://dbpedia.org/resource/Belgrade",
+      "http://dbpedia.org/resource/Socialist_Republic_of_Serbia"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Pop-folk",
+      "http://dbpedia.org/resource/Turbo-folk",
+      "http://dbpedia.org/resource/Folk_music"
+    ],
+    "occupation": "http://dbpedia.org/resource/Singing",
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Yugoslavia",
+      "http://dbpedia.org/resource/Belgrade",
+      "http://dbpedia.org/resource/Socialist_Republic_of_Serbia"
+    ],
+    "yearsActive": 1990
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Adam_Faith",
+    "placeOfBirth": "Acton, London, England",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Bobby_Vee",
+      "http://dbpedia.org/resource/Cliff_Richard",
+      "http://dbpedia.org/resource/Buddy_Holly",
+      "http://dbpedia.org/resource/Billy_Fury",
+      "http://dbpedia.org/resource/The_Roulettes",
+      "http://dbpedia.org/resource/Lonnie_Donegan"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Adam_Faith_headshot.jpg",
+    "foaf:name": "Adam Faith",
+    "hometown": "http://dbpedia.org/resource/London",
+    "wikiPageExternalLink": [
+      "http://www.guardian.co.uk/obituaries/story/0,3604,910830,00.html",
+      "http://www.adamfaith.org.uk/home.php",
+      "http://www.adamfaith.org.uk/discog.php",
+      "http://www.britishpathe.com/record.php?id=44855",
+      "http://www.allmusic.com/artist/adam-faith-p17413",
+      "http://www.imdb.com/name/nm0265693/"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1940-06-23T00:00:00.000Z",
+    "birthPlace": "http://dbpedia.org/resource/Acton,_London",
+    "instrument": [
+      "http://dbpedia.org/resource/Human_voice",
+      "http://dbpedia.org/resource/Human_voice"
+    ],
+    "birthName": "Terence Nelhams-Wright",
+    "yearsActive": 1957,
+    "associatedBand": "http://dbpedia.org/resource/Lonnie_Donegan"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Adam_Yauch",
+    "wikiPageExternalLink": [
+      "http://www.ifc.com/film/film-news/2008/06/adam-yauch-on-gunnin-for-that.php",
+      "http://www.beastieboys.com/",
+      "http://www.shambhalasun.com/index.php?option=com_content&task=view&id=2106&Itemid=0",
+      "http://www.thelifefiles.com/thelife-sports-adam-mca-yauch-of-the-beastie-boys-talks-basketball/",
+      "http://www.oscilloscope.net/"
+    ],
+    "birthPlace": [
+      "http://dbpedia.org/resource/New_York_City",
+      "http://dbpedia.org/resource/Brooklyn"
+    ],
+    "birthName": "Adam Nathaniel Yauch",
+    "yearsActive": 1979,
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Adam_Yauch_crop.jpg",
+    "foaf:name": "Adam Yauch",
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Beastie_Boys",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1964-08-05T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Master_of_ceremonies",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "MC, vocals, bass guitar, keyboards"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/Capitol_Records",
+      "http://dbpedia.org/resource/Def_Jam_Recordings",
+      "http://dbpedia.org/resource/Grand_Royal"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Hip_hop_music",
+      "http://dbpedia.org/resource/Rap_rock",
+      "http://dbpedia.org/resource/Hardcore_punk",
+      "http://dbpedia.org/resource/Alternative_hip_hop"
+    ],
+    "occupation": "Rapper, musician, songwriter, director, film distributor",
+    "placeOfBirth": "Brooklyn, New York, U.S."
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Adel_Tawil",
+    "foaf:name": [
+      "Adel Tawil",
+      "Tawil"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/b/bf/Adel_Tawil_2008-08-30.jpg",
+    "hometown": [
+      "http://dbpedia.org/resource/Germany",
+      "http://dbpedia.org/resource/Berlin"
+    ],
+    "wikiPageExternalLink": "http://www.ich-und-ich.de",
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Ich_+_Ich",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1978-08-15T00:00:00.000Z",
+    "birthPlace": "http://dbpedia.org/resource/Germany",
+    "birthName": "Adel Tawil",
+    "genre": "http://dbpedia.org/resource/Pop_music",
+    "placeOfBirth": "http://dbpedia.org/resource/Germany",
+    "yearsActive": 1996
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Adolfo_de_la_Parra",
+    "foaf:name": [
+      "Adolfo de la Parra",
+      "Adolfo De La Parra"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.cannedheatmusic.com/fito_s_book.html",
+      "http://www.cannedheatmusic.com/"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Bluesberry_Jam",
+      "http://dbpedia.org/resource/Canned_Heat"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/7/73/Fito_de_la_Parra.jpg",
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthDate": "1946-02-03T00:00:00.000Z",
+    "birthPlace": "http://dbpedia.org/resource/Mexico_City",
+    "genre": [
+      "http://dbpedia.org/resource/Blues_rock",
+      "http://dbpedia.org/resource/Blues"
+    ],
+    "instrument": "Drums",
+    "placeOfBirth": "Mexico City, Mexico",
+    "yearsActive": 1960
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Adrian_Borland",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "occupation": "Musician",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/c/cc/Adrian_Borland.jpg",
+    "foaf:name": "Adrian Borland",
+    "hometown": [
+      "http://dbpedia.org/resource/England",
+      "http://dbpedia.org/resource/London"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.brittleheaven.com/",
+      "http://www.renascent.co.uk/pagessound/sound.html/"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Honolulu_Mountain_Daffodils",
+      "http://dbpedia.org/resource/Second_Layer",
+      "http://dbpedia.org/resource/The_Sound",
+      "http://dbpedia.org/resource/The_Outsiders_(British_band)"
+    ],
+    "birthDate": "1957-12-06T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "birthName": "Adrian Kelvin Borland",
+    "genre": [
+      "http://dbpedia.org/resource/Indie_rock",
+      "http://dbpedia.org/resource/Post-punk",
+      "http://dbpedia.org/resource/Alternative_rock",
+      "http://dbpedia.org/resource/New_Wave_music"
+    ],
+    "yearsActive": 1976
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Adrian_Gurvitz",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/8/89/Headshot_of_Adrian_Gurvitz.jpg",
+    "foaf:name": "Adrian Gurvitz",
+    "wikiPageExternalLink": [
+      "http://www.paulgurvitz.com/",
+      "http://www.youtube.com/watch?v=r9a1esyJNRE"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/The_Gun_(band)",
+      "http://dbpedia.org/resource/Baker_Gurvitz_Army",
+      "http://dbpedia.org/resource/Three_Man_Army"
+    ],
+    "birthDate": "1949-06-26T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Stoke_Newington",
+      "http://dbpedia.org/resource/London_Records"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/Geffen_Records",
+      "http://dbpedia.org/resource/Playfull_Records",
+      "http://dbpedia.org/resource/EMI",
+      "http://dbpedia.org/resource/Jet_Records",
+      "http://dbpedia.org/resource/Rak_Records"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Pop_rock",
+      "http://dbpedia.org/resource/Blues_rock",
+      "http://dbpedia.org/resource/Psychedelic_rock",
+      "http://dbpedia.org/resource/Hard_rock",
+      "http://dbpedia.org/resource/Soft_rock"
+    ],
+    "instrument": "Guitar, piano",
+    "occupation": [
+      "http://dbpedia.org/resource/Singer-songwriter",
+      "http://dbpedia.org/resource/Musician",
+      "http://dbpedia.org/resource/Record_producer"
+    ],
+    "placeOfBirth": "Stoke Newington, London",
+    "yearsActive": 1967
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Aesop_Rock",
+    "wikiPageExternalLink": [
+      "http://www.900Bats.com/",
+      "http://www.AesopRock.com/",
+      "http://exclaim.ca/articles/multiarticlesub.aspx?csid1=114&csid2=4&fid1=27334",
+      "http://www.definitivejux.net/jukies/aesop-rock",
+      "http://blogs.laweekly.com/play/interviews/beyond-the-stage-from-the-trou-1/",
+      "http://www.discogs.com/artist/Aesop+Rock",
+      "http://delarge.co.uk/aesop-rock-interview",
+      "http://www.mushrecords.com/artist.php?ARTID=30",
+      "http://submergemag.com/featured/all-day-all-night/86/",
+      "http://www.guernicamag.com/interviews/397/graffiti_or_vermeer/",
+      "http://roychristopher.com/aesop-rock-lyrics-to-go",
+      "http://rapgenius.com/artists/Aesop-Rock",
+      "http://www.knowtheledge.net/aesoprock.htm",
+      "http://roychristopher.com/aesop-rock-on-scones",
+      "http://www.northshorelij.com/NSLIJ/syosset",
+      "http://www.last.fm/music/Aesop+Rock",
+      "http://larecord.com/issues/2008/09/12/aesop-rock-just-like-some-dude/",
+      "http://www.pitchforkmedia.com/article/feature/44436-interview-aesop-rock",
+      "http://www.imdb.com/name/nm1952454/"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Hail_Mary_Mallon",
+      "http://dbpedia.org/resource/Blockhead_(music)",
+      "http://dbpedia.org/resource/The_Weathermen_(hip_hop_group)",
+      "http://dbpedia.org/resource/El-P",
+      "http://dbpedia.org/resource/Slug_(rapper)",
+      "http://dbpedia.org/resource/Kimya_Dawson",
+      "http://dbpedia.org/resource/Doseone",
+      "http://dbpedia.org/resource/Felt_(hip_hop_group)"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Synthesizer",
+      "http://dbpedia.org/resource/Music_Production_Center",
+      "http://dbpedia.org/resource/Rapping",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Music_sequencer",
+      "http://dbpedia.org/resource/Synthesizer",
+      "http://dbpedia.org/resource/Music_Production_Center",
+      "http://dbpedia.org/resource/Rapping",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Music_sequencer"
+    ],
+    "birthName": "Ian Matthias Bavitz",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/4/44/Ian_bavitz.jpg",
+    "foaf:name": "Aesop Rock",
+    "hometown": [
+      "http://dbpedia.org/resource/Northport,_New_York",
+      "http://dbpedia.org/resource/New_York",
+      "http://dbpedia.org/resource/United_States"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1976-06-05T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/New_York",
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/Syosset,_New_York",
+      "http://dbpedia.org/resource/Oyster_Bay_(town),_New_York"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/Definitive_Jux",
+      "http://dbpedia.org/resource/Rhymesayers_Entertainment",
+      "http://dbpedia.org/resource/Mush_Records"
+    ],
+    "genre": "http://dbpedia.org/resource/Hip_hop_music",
+    "occupation": [
+      "http://dbpedia.org/resource/Rapping",
+      "http://dbpedia.org/resource/Visual_arts",
+      "http://dbpedia.org/resource/Musician",
+      "http://dbpedia.org/resource/Songwriter",
+      "http://dbpedia.org/resource/Hip_hop_production",
+      "http://dbpedia.org/resource/Poet"
+    ],
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/New_York",
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/Syosset,_New_York",
+      "http://dbpedia.org/resource/Oyster_Bay_(town),_New_York"
+    ],
+    "yearsActive": 1996,
+    "associatedBand": "http://dbpedia.org/resource/Slug_(rapper)"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Afrika_Bambaataa",
+    "wikiPageExternalLink": [
+      "http://hiphop.sh/afrika",
+      "http://www.whosampled.com/artist/Afrika%20Bambaataa/",
+      "http://www.rollingstone.com/music/artists/afrika-bambaataa"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Lovage_(band)",
+      "http://dbpedia.org/resource/Leftfield",
+      "http://dbpedia.org/resource/George_Clinton_(musician)",
+      "http://dbpedia.org/resource/Sly_and_the_Family_Stone",
+      "http://dbpedia.org/resource/Jungle_Brothers",
+      "http://dbpedia.org/resource/Melle_Mel",
+      "http://dbpedia.org/resource/Shango_(musician)",
+      "http://dbpedia.org/resource/Jazzy_Five",
+      "http://dbpedia.org/resource/Soulsonic_Force",
+      "http://dbpedia.org/resource/Bootsy_Collins",
+      "http://dbpedia.org/resource/Busy_Bee_Starski",
+      "http://dbpedia.org/resource/Time_Zone_(band)",
+      "http://dbpedia.org/resource/Lee_Evans_(producer)",
+      "http://dbpedia.org/resource/John_Lydon",
+      "http://dbpedia.org/resource/Nujabes",
+      "http://dbpedia.org/resource/Arthur_Baker_(musician)",
+      "http://dbpedia.org/resource/Bill_Laswell",
+      "http://dbpedia.org/resource/James_Brown"
+    ],
+    "birthPlace": [
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/The_Bronx",
+      "http://dbpedia.org/resource/New_York"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Synthesizer",
+      "http://dbpedia.org/resource/Synthesizer",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Disc_jockey",
+      "http://dbpedia.org/resource/Electronic_keyboard",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Disc_jockey",
+      "http://dbpedia.org/resource/Electronic_keyboard"
+    ],
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/New_York",
+      "http://dbpedia.org/resource/The_Bronx",
+      "http://dbpedia.org/resource/United_States"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/6/6b/Africa_Bambaataa-02.jpg",
+    "foaf:name": "Afrika Bambaataa",
+    "hometown": [
+      "http://dbpedia.org/resource/The_Bronx",
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/New_York"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1957-04-19T00:00:00.000Z",
+    "recordLabel": [
+      "http://dbpedia.org/resource/EMI",
+      "http://dbpedia.org/resource/Winley_Records",
+      "http://dbpedia.org/resource/Tommy_Boy_Entertainment",
+      "http://dbpedia.org/resource/Capitol_Records"
+    ],
+    "birthName": "Kevin Donovan",
+    "genre": [
+      "http://dbpedia.org/resource/Disco",
+      "http://dbpedia.org/resource/Electro_house",
+      "http://dbpedia.org/resource/Hip_hop_music",
+      "http://dbpedia.org/resource/Electro_(music)"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Disc_jockey",
+      "http://dbpedia.org/resource/Record_producer",
+      "http://dbpedia.org/resource/Activism"
+    ],
+    "yearsActive": 1972,
+    "associatedBand": "http://dbpedia.org/resource/Busy_Bee_Starski"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Ahmet_%C3%96zhan",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/3/3a/Ahmet_Özhan_Konya2009.JPG",
+    "foaf:name": [
+      "Ahmet Özhan",
+      "Ahmet Ozhan"
+    ],
+    "hometown": [
+      "http://dbpedia.org/resource/%C3%9Csk%C3%BCdar",
+      "http://dbpedia.org/resource/Turkey",
+      "http://dbpedia.org/resource/Istanbul"
+    ],
+    "wikiPageExternalLink": "http://www.ahmetozhan.com.tr/",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Emel_Say%C4%B1n",
+      "http://dbpedia.org/resource/Selahattin_%C4%B0%C3%A7li",
+      "http://dbpedia.org/resource/Erol_Sayan"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1950-08-26T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Turkey",
+      "http://dbpedia.org/resource/%C5%9Eanl%C4%B1urfa"
+    ],
+    "birthName": "Ahmet Şükrü Kadıöz",
+    "genre": [
+      "http://dbpedia.org/resource/Ottoman_classical_music",
+      "http://dbpedia.org/resource/Sufi_music"
+    ],
+    "instrument": "Vocals",
+    "occupation": "Singer, actor, conductor",
+    "placeOfBirth": "Sanliurfa, Turkey",
+    "yearsActive": 1968
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Ai_Otsuka",
+    "wikiPageExternalLink": [
+      "http://www.avexnet.or.jp/ai/",
+      "http://www.tfm.co.jp/love/",
+      "http://www.avexnet.or.jp/love/",
+      "http://www.joqr.co.jp/reco/ai",
+      "http://web.1week.cc/book/nekogasuki/"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Pop_music",
+      "http://dbpedia.org/resource/Pop_rock"
+    ],
+    "foaf:name": "Ai Otsuka",
+    "hometown": [
+      "http://dbpedia.org/resource/Japan",
+      "http://dbpedia.org/resource/Suminoe-ku,_Osaka",
+      "http://dbpedia.org/resource/Osaka_Prefecture",
+      "http://dbpedia.org/resource/Osaka"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Rip_Slyme",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1982-09-09T00:00:00.000Z",
+    "recordLabel": "http://dbpedia.org/resource/Avex_Trax",
+    "occupation": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Composer",
+      "http://dbpedia.org/resource/Pianist",
+      "http://dbpedia.org/resource/Radio_personality",
+      "http://dbpedia.org/resource/Actor",
+      "http://dbpedia.org/resource/Songwriter"
+    ],
+    "placeOfBirth": "Osaka",
+    "yearsActive": 2003
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Aimee_Mann",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Aimee_Mann_October_2005.jpg",
+    "foaf:name": "Aimee Mann",
+    "hometown": [
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/Richmond,_Virginia"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.aimeemann.com/",
+      "http://www.aimeemann.com",
+      "http://minnesota.publicradio.org/display/web/2005/08/02/aimee_mann/",
+      "http://www.imdb.com/name/nm0005181/",
+      "http://www.npr.org/templates/story/story.php?storyId=98152519",
+      "http://www.npr.org/templates/story/story.php?storyId=14962491",
+      "http://minnesota.publicradio.org/display/web/2008/06/12/aimee_mann/",
+      "http://www.apple.com/quicktime/guide/hd/aimeemannlivestanns.html",
+      "http://www.rollingstone.com/artists/aimeemann",
+      "http://www.discogs.com/artist/Aimee+Mann"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/'Til_Tuesday",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1960-09-08T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Hi-hat",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Hi-hat"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Folk_music",
+      "http://dbpedia.org/resource/Rock_music"
+    ],
+    "occupation": "http://dbpedia.org/resource/Singer-songwriter",
+    "yearsActive": 1982
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Aisha_Kahlil",
+    "foaf:name": "Aisha Kahlil",
+    "wikiPageExternalLink": "http://aishakahlil.com/",
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Sweet_Honey_in_the_Rock",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "instrument": "Voice"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Aki_Takase",
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Berlin_Contemporary_Jazz_Orchestra",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Aki_Takase_in_June_2008.jpg",
+    "foaf:name": "Aki Takase",
+    "hometown": [
+      "http://dbpedia.org/resource/Tokyo",
+      "http://dbpedia.org/resource/Japan"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.aki-takase.de/",
+      "http://www.aki-takase.de",
+      "http://www.allaboutjazz.com/php/news.php?id=84566"
+    ],
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthDate": "1948-01-26T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Japan",
+      "http://dbpedia.org/resource/Osaka"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Piano"
+    ],
+    "genre": "http://dbpedia.org/resource/Jazz",
+    "occupation": [
+      "http://dbpedia.org/resource/Composer",
+      "http://dbpedia.org/resource/Musician"
+    ],
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Japan",
+      "http://dbpedia.org/resource/Osaka"
+    ],
+    "yearsActive": 1978
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Al_Anderson_(The_Wailers)",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Peter_Tosh",
+      "http://dbpedia.org/resource/Bob_Marley_and_the_Wailers",
+      "http://dbpedia.org/resource/The_Wailers_Band",
+      "http://dbpedia.org/resource/Lauryn_Hill",
+      "http://dbpedia.org/resource/UB40",
+      "http://dbpedia.org/resource/The_Centurions_(band)",
+      "http://dbpedia.org/resource/Traffic_(band)",
+      "http://dbpedia.org/resource/Black_Uhuru",
+      "http://dbpedia.org/resource/Ben_Harper"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Rock_music",
+      "http://dbpedia.org/resource/Reggae"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/1/19/Al_Anderson1978.png",
+    "foaf:name": "Al Anderson",
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthPlace": "http://dbpedia.org/resource/New_York",
+    "instrument": [
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Guitar"
+    ],
+    "birthName": "Albert Anderson",
+    "occupation": [
+      "http://dbpedia.org/resource/Artist",
+      "http://dbpedia.org/resource/Guitarist",
+      "http://dbpedia.org/resource/Songwriter"
+    ],
+    "placeOfBirth": "New York, United States",
+    "yearsActive": 1970,
+    "associatedBand": "http://dbpedia.org/resource/Bob_Marley_and_the_Wailers"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Al_Hibbler",
+    "instrument": [
+      "http://dbpedia.org/resource/Human_voice",
+      "http://dbpedia.org/resource/Human_voice"
+    ],
+    "foaf:name": [
+      "Al Hibbler",
+      "Albert George Hibbler"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.arjazz.org/artists/hof/1995/95_al_hibbler.html",
+      "http://www.mossiehigh.com/Al_Hibbler",
+      "http://www.mp3albumonline.biz/listen/1014213.m3u"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Duke_Ellington",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1915-08-16T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/Tyro",
+      "http://dbpedia.org/resource/Mississippi"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Jazz",
+      "http://dbpedia.org/resource/Easy_listening",
+      "http://dbpedia.org/resource/Traditional_pop_music"
+    ],
+    "occupation": "http://dbpedia.org/resource/Singing",
+    "placeOfBirth": "Tyro, Mississippi, United States",
+    "yearsActive": 1935,
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/a/a4/Alhibb.jpg",
+    "recordLabel": [
+      "http://dbpedia.org/resource/Decca_Records",
+      "http://dbpedia.org/resource/Verve_Records",
+      "http://dbpedia.org/resource/Reprise_Records"
+    ],
+    "birthName": "Albert George Hibbler"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Al_Jardine",
+    "instrument": [
+      "http://dbpedia.org/resource/Saxophone",
+      "http://dbpedia.org/resource/Percussion_instrument",
+      "http://dbpedia.org/resource/Fender_Jaguar",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Fender_Telecaster",
+      "http://dbpedia.org/resource/Fender_Musical_Instruments_Corporation",
+      "http://dbpedia.org/resource/Double_bass",
+      "http://dbpedia.org/resource/Drum_kit",
+      "http://dbpedia.org/resource/Electronic_keyboard",
+      "http://dbpedia.org/resource/Ukulele",
+      "http://dbpedia.org/resource/Synthesizer",
+      "http://dbpedia.org/resource/Banjo",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Percussion_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Mandolin",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Saxophone",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Double_bass",
+      "http://dbpedia.org/resource/Drum_kit",
+      "http://dbpedia.org/resource/Electronic_keyboard",
+      "http://dbpedia.org/resource/Ukulele",
+      "http://dbpedia.org/resource/Synthesizer",
+      "http://dbpedia.org/resource/Banjo",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Mandolin",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/0/0b/Al_Jardine_2012.jpg",
+    "foaf:name": "Al Jardine",
+    "hometown": [
+      "http://dbpedia.org/resource/Lima,_Ohio",
+      "http://dbpedia.org/resource/United_States"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.aljardine.com",
+      "http://www.aljardine.com/"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/The_Beach_Boys",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1942-09-03T00:00:00.000Z",
+    "recordLabel": [
+      "http://dbpedia.org/resource/Columbia_Records",
+      "http://dbpedia.org/resource/Capitol_Records",
+      "http://dbpedia.org/resource/Warner_Bros._Records"
+    ],
+    "birthName": "Alan Charles Jardine",
+    "genre": [
+      "http://dbpedia.org/resource/Surf_music",
+      "http://dbpedia.org/resource/Rock_and_roll"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Composer",
+      "http://dbpedia.org/resource/Musician"
+    ],
+    "yearsActive": 1961
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Al_Kooper",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Blues_Project",
+      "http://dbpedia.org/resource/Mike_Bloomfield",
+      "http://dbpedia.org/resource/Bob_Dylan",
+      "http://dbpedia.org/resource/Blood,_Sweat_&_Tears"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/d/d8/Al_Kooper_22A.jpg",
+    "foaf:name": "Al Kooper",
+    "wikiPageExternalLink": [
+      "http://www.alkooper.com/",
+      "http://www.gadflyonline.com/archive/JanFeb01/archive-hendrix.html",
+      "http://www.myspace.com/httpwwwmyspacecomallkooper",
+      "http://www.npr.org/templates/story/story.php?storyId=1625760"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1944-02-05T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Brooklyn",
+      "http://dbpedia.org/resource/New_York",
+      "http://dbpedia.org/resource/United_States"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Guitar",
+      "Guitar, vocals, bass, keyboards, percussion, mandolin"
+    ],
+    "occupation": "Musician, songwriter, producer",
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Brooklyn",
+      "http://dbpedia.org/resource/New_York",
+      "http://dbpedia.org/resource/United_States"
+    ],
+    "associatedBand": "http://dbpedia.org/resource/Bob_Dylan"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Alan_Lancaster",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Alan_Lancaster_2013.png",
+    "foaf:name": "Alan Lancaster",
+    "hometown": "http://dbpedia.org/resource/London",
+    "wikiPageExternalLink": "http://www.bbc.co.uk/dna/h2g2/A7953087",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/The_Party_Boys",
+      "http://dbpedia.org/resource/Status_Quo_(band)"
+    ],
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthDate": "1949-02-07T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Drum_kit",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Drum_kit",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Bass_guitar"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Hard_rock",
+      "http://dbpedia.org/resource/Boogie_rock",
+      "http://dbpedia.org/resource/Blues_rock",
+      "http://dbpedia.org/resource/Psychedelic_rock",
+      "http://dbpedia.org/resource/Rock_and_roll"
+    ],
+    "occupation": "http://dbpedia.org/resource/Musician",
+    "yearsActive": 1962,
+    "associatedBand": "http://dbpedia.org/resource/Status_Quo_(band)"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Alan_Price",
+    "instrument": [
+      "http://dbpedia.org/resource/Rocky_Mount_Instruments",
+      "http://dbpedia.org/resource/Vox_Continental",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Guitar"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/Polydor_Records",
+      "http://dbpedia.org/resource/Cotillion_Records",
+      "http://dbpedia.org/resource/Decca_Records",
+      "http://dbpedia.org/resource/Deram_Records",
+      "http://dbpedia.org/resource/United_Artists_Records",
+      "http://dbpedia.org/resource/Vertigo_Records",
+      "http://dbpedia.org/resource/Warner_Bros._Records",
+      "http://dbpedia.org/resource/Ariola_Records",
+      "http://dbpedia.org/resource/Sanctuary_Records_Group",
+      "http://dbpedia.org/resource/Parrot_Records",
+      "http://dbpedia.org/resource/Jet_Records",
+      "http://dbpedia.org/resource/Columbia_Records"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Pop_music",
+      "http://dbpedia.org/resource/Blues_rock",
+      "http://dbpedia.org/resource/Rock_music",
+      "http://dbpedia.org/resource/Psychedelic_rock"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Alan_Price",
+      "http://dbpedia.org/resource/Zoot_Money",
+      "http://dbpedia.org/resource/Bobby_Tench",
+      "http://dbpedia.org/resource/The_Animals",
+      "http://dbpedia.org/resource/Eric_Burdon"
+    ],
+    "foaf:name": "Alan Price",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1942-04-19T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/England",
+      "http://dbpedia.org/resource/United_Kingdom",
+      "http://dbpedia.org/resource/Washington,_Tyne_and_Wear",
+      "http://dbpedia.org/resource/County_Durham",
+      "http://dbpedia.org/resource/Fatfield"
+    ],
+    "birthName": "Alan Price",
+    "occupation": "Musician, songwriter, musical arranger",
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/England",
+      "http://dbpedia.org/resource/United_Kingdom",
+      "http://dbpedia.org/resource/Washington,_Tyne_and_Wear",
+      "http://dbpedia.org/resource/County_Durham",
+      "http://dbpedia.org/resource/Fatfield"
+    ],
+    "yearsActive": 1961,
+    "associatedBand": "http://dbpedia.org/resource/Bobby_Tench"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Alan_Silva",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Bermuda",
+      "http://dbpedia.org/resource/British_Empire"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/MPS_Records",
+      "http://dbpedia.org/resource/Hathut_Records",
+      "http://dbpedia.org/resource/Sony_Music_Entertainment",
+      "http://dbpedia.org/resource/ESP-Disk",
+      "http://dbpedia.org/resource/JAPO_Records",
+      "http://dbpedia.org/resource/Blue_Note_Records",
+      "http://dbpedia.org/resource/Impulse!_Records",
+      "http://dbpedia.org/resource/Black_Saint/Soul_Note",
+      "http://dbpedia.org/resource/BYG_Actuel",
+      "http://dbpedia.org/resource/Columbia_Records"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Double_bass",
+      "http://dbpedia.org/resource/Songwriter",
+      "http://dbpedia.org/resource/Bandleader",
+      "http://dbpedia.org/resource/Keyboardist",
+      "http://dbpedia.org/resource/Composer"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Albert_Ayler",
+      "http://dbpedia.org/resource/Cecil_Taylor",
+      "http://dbpedia.org/resource/Frank_Wright",
+      "http://dbpedia.org/resource/Dave_Burrell",
+      "http://dbpedia.org/resource/Andrew_Hill",
+      "http://dbpedia.org/resource/Bill_Dixon",
+      "http://dbpedia.org/resource/Sun_Ra",
+      "http://dbpedia.org/resource/Sunny_Murray",
+      "http://dbpedia.org/resource/Archie_Shepp",
+      "http://dbpedia.org/resource/Globe_Unity_Orchestra",
+      "http://dbpedia.org/resource/Bobby_Few"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Alan_Silva_1969.jpg",
+    "foaf:name": "Alan Silva",
+    "wikiPageExternalLink": [
+      "http://www.center-of-the-world.de/Page/DiscAlan.html",
+      "http://www.fmp-label.de/freemusicproduction/musiker/silva.html",
+      "http://www.paristransatlantic.com/magazine/interviews/silva.html",
+      "http://www.bostonphoenix.com/boston/music/giantsteps/documents/02720647.htm"
+    ],
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthDate": "1939-01-22T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Sarangi",
+      "http://dbpedia.org/resource/Electric_violin",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Double_bass",
+      "http://dbpedia.org/resource/Electronic_keyboard",
+      "http://dbpedia.org/resource/Trumpet",
+      "http://dbpedia.org/resource/Sarangi",
+      "http://dbpedia.org/resource/Electric_violin",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Double_bass",
+      "http://dbpedia.org/resource/Electronic_keyboard",
+      "http://dbpedia.org/resource/Trumpet"
+    ],
+    "birthName": "Alan Treadwell da Silva",
+    "genre": [
+      "http://dbpedia.org/resource/Avant-garde_jazz",
+      "http://dbpedia.org/resource/Jazz",
+      "http://dbpedia.org/resource/Free_jazz"
+    ],
+    "placeOfBirth": "http://dbpedia.org/resource/Bermuda",
+    "associatedBand": "http://dbpedia.org/resource/Sun_Ra"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Albano_Carrisi",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Sanremo_Music_Festival",
+      "http://dbpedia.org/resource/Al_Bano_and_Romina_Power",
+      "http://dbpedia.org/resource/Eurovision_Song_Contest"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/9/93/Al_bano_carrisi_11.jpg",
+    "foaf:name": [
+      "Albano Carrisi",
+      "Al Bano"
+    ],
+    "hometown": [
+      "http://dbpedia.org/resource/Kingdom_of_Italy",
+      "http://dbpedia.org/resource/Cellino_San_Marco"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.albanocarrisi.it/",
+      "http://film.spettacolo.virgilio.it/cinema/scheda.php?persona=1756",
+      "http://www.youtube.com/watch?v=ikygs4XlLRk",
+      "http://www.youtube.com/watch?v=_Cw0JZuP7AU"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1943-05-20T00:00:00.000Z",
+    "birthName": "Albano Carrisi",
+    "genre": "http://dbpedia.org/resource/Pop_music",
+    "occupation": [
+      "http://dbpedia.org/resource/Winemaker",
+      "http://dbpedia.org/resource/Actor",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "yearsActive": 1965
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Albert_Hammond",
+    "wikiPageExternalLink": [
+      "http://www.independent.co.uk/news/people/profiles/the-five-minute-interview-albert-hammond-singer-and-songwriter-1544687.html",
+      "http://www.alberthammond.net",
+      "http://www.lunchip.com/hammond/"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Guitar"
+    ],
+    "foaf:name": "Albert Hammond",
+    "hometown": [
+      "http://dbpedia.org/resource/England",
+      "http://dbpedia.org/resource/Gibraltar"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Duffy_(singer)",
+      "http://dbpedia.org/resource/The_Family_Dogg"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1944-05-18T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/England",
+      "http://dbpedia.org/resource/London"
+    ],
+    "birthName": "Albert Louis Hammond",
+    "genre": [
+      "http://dbpedia.org/resource/Soft_rock",
+      "http://dbpedia.org/resource/Pop_music"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Musician",
+      "http://dbpedia.org/resource/Songwriter",
+      "http://dbpedia.org/resource/Record_producer",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/England",
+      "http://dbpedia.org/resource/London"
+    ],
+    "yearsActive": 1960,
+    "associatedBand": "http://dbpedia.org/resource/Duffy_(singer)"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Albert_Lee",
+    "birthDate": "1943-12-21T00:00:00.000Z",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Emmylou_Harris",
+      "http://dbpedia.org/resource/Bill_Wyman's_Rhythm_Kings",
+      "http://dbpedia.org/resource/Heads_Hands_&_Feet",
+      "http://dbpedia.org/resource/Eric_Clapton",
+      "http://dbpedia.org/resource/The_Everly_Brothers",
+      "http://dbpedia.org/resource/Rodney_Crowell",
+      "http://dbpedia.org/resource/Ricky_Skaggs"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/2/27/Albert_Lee.jpg",
+    "foaf:name": "Albert Lee",
+    "wikiPageExternalLink": [
+      "http://www.albertlee.co.uk",
+      "http://www.albertleeandhogansheroes.com"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthPlace": [
+      "http://dbpedia.org/resource/England",
+      "http://dbpedia.org/resource/Lingen,_Germany",
+      "http://dbpedia.org/resource/Herefordshire",
+      "http://dbpedia.org/resource/Leominster"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Fender_Stratocaster",
+      "http://dbpedia.org/resource/Ernie_Ball",
+      "http://dbpedia.org/resource/Fender_Telecaster",
+      "http://dbpedia.org/resource/Gibson_Les_Paul",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Mandolin",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Gibson_J-200",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Mandolin",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Piano"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/Castle_Communications",
+      "http://dbpedia.org/resource/Polydor_Records",
+      "http://dbpedia.org/resource/MCA_Inc.",
+      "http://dbpedia.org/resource/A&M_Records",
+      "http://dbpedia.org/resource/Sugar_Hill_Records"
+    ],
+    "birthName": "Albert Lee",
+    "genre": [
+      "http://dbpedia.org/resource/Country_music",
+      "http://dbpedia.org/resource/Rockabilly",
+      "http://dbpedia.org/resource/Rhythm_and_blues",
+      "http://dbpedia.org/resource/Rock_and_roll"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Musician",
+      "http://dbpedia.org/resource/Songwriter",
+      "http://dbpedia.org/resource/Music_director"
+    ],
+    "placeOfBirth": "http://dbpedia.org/resource/Leominster",
+    "yearsActive": 1959,
+    "associatedBand": "http://dbpedia.org/resource/Eric_Clapton"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Albert_Mangelsdorff",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Frankfurt",
+      "http://dbpedia.org/resource/Germany"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/7/76/Albert-Mangelsdorff-Schindelbeck.jpg",
+    "foaf:name": "Albert Mangelsdorff",
+    "wikiPageExternalLink": [
+      "http://www.murecstudio.com/murec%20studio%20la%20storia.htm",
+      "http://www.jazzpages.com/Mangelsdorff/",
+      "http://www.fmp-label.de/freemusicproduction/musiker/mangelsdorff.html"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Hans_Koller",
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthDate": "1928-09-05T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Trombone",
+      "http://dbpedia.org/resource/Violin",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Trombone",
+      "http://dbpedia.org/resource/Violin",
+      "http://dbpedia.org/resource/Guitar"
+    ],
+    "genre": "http://dbpedia.org/resource/Jazz",
+    "occupation": [
+      "http://dbpedia.org/resource/Musician",
+      "http://dbpedia.org/resource/Bandleader",
+      "http://dbpedia.org/resource/Music_director"
+    ],
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Germany",
+      "http://dbpedia.org/resource/Frankfurt"
+    ],
+    "yearsActive": 1948
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Alberta_Hunter",
+    "recordLabel": [
+      "http://dbpedia.org/resource/Bluebird_Records",
+      "http://dbpedia.org/resource/Black_Swan_Records",
+      "http://dbpedia.org/resource/Columbia_Records",
+      "http://dbpedia.org/resource/Victor_Talking_Machine_Company",
+      "http://dbpedia.org/resource/Okeh_Records",
+      "http://dbpedia.org/resource/Bluesville_Records",
+      "http://dbpedia.org/resource/Decca_Records",
+      "http://dbpedia.org/resource/Paramount_Records",
+      "http://dbpedia.org/resource/Gennett_Records"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Blues",
+      "http://dbpedia.org/resource/Jazz"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Nursing",
+      "http://dbpedia.org/resource/Songwriter"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/2/29/Alberta_Hunter.jpg",
+    "foaf:name": "Alberta Hunter",
+    "hometown": [
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/Memphis,_Tennessee"
+    ],
+    "wikiPageExternalLink": "http://www.redhotjazz.com/hunter.html",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Bessie_Smith",
+      "http://dbpedia.org/resource/Ethel_Waters"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1895-04-01T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/Memphis,_Tennessee"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Human_voice",
+      "http://dbpedia.org/resource/Human_voice"
+    ],
+    "birthName": "Alberta Hunter",
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/United_States",
+      "http://dbpedia.org/resource/Memphis,_Tennessee"
+    ],
+    "yearsActive": 1914
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Alexander_Hacke",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthName": "Alexander von Borsig",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/d/de/2007-05-24_Alexander_Hacke_live.jpg",
+    "foaf:name": "Alexander Hacke",
+    "wikiPageExternalLink": [
+      "http://www.hacke.org",
+      "http://www.dorfdisco.de/int/2004/alexanderhacke.phtml",
+      "http://www.native-instruments.com/index.php?id=neubauten&ftu=840f7eab0705eea&flash=8"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Einst%C3%BCrzende_Neubauten",
+    "birthDate": "1965-10-11T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Berlin",
+      "http://dbpedia.org/resource/Germany"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Electronic_music",
+      "http://dbpedia.org/resource/Industrial_music",
+      "http://dbpedia.org/resource/Experimental_music"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Musician",
+      "http://dbpedia.org/resource/Record_producer"
+    ],
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Berlin",
+      "http://dbpedia.org/resource/Germany"
+    ],
+    "yearsActive": 1980
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Alla_Rakha",
+    "birthName": "Alla Rakha Qureshi",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Ravi_Shankar",
+      "http://dbpedia.org/resource/Aditya_Kalyanpur",
+      "http://dbpedia.org/resource/Zakir_Hussain_(musician)"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/9/90/Alla_Rakha_1988.jpg",
+    "foaf:name": [
+      "Alla Rakha",
+      "Alla Rakha Qureshi"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.tabla-player.com/",
+      "http://www.tabla-berlin.com"
+    ],
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthDate": "1919-04-29T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/British_Raj",
+      "http://dbpedia.org/resource/Kashmir_and_Jammu_(princely_state)"
+    ],
+    "genre": "http://dbpedia.org/resource/Hindustani_classical_music",
+    "placeOfBirth": "Paghwal, Jammu and Kashmir, British India",
+    "hometown": "http://dbpedia.org/resource/Dogra",
+    "instrument": [
+      "http://dbpedia.org/resource/Tabla",
+      "http://dbpedia.org/resource/Tabla"
+    ]
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Allen_Collins",
+    "foaf:name": "Allen Collins",
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthName": "Larkin Allen Collins, Jr.",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/3/3c/Allen_Collins.jpg",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Allen_Collins_Band",
+      "http://dbpedia.org/resource/Rossington_Collins_Band",
+      "http://dbpedia.org/resource/Lynyrd_Skynyrd"
+    ],
+    "birthDate": "1952-07-19T00:00:00.000Z",
+    "birthPlace": "http://dbpedia.org/resource/Jacksonville,_Florida",
+    "instrument": [
+      "http://dbpedia.org/resource/Gibson_Firebird",
+      "http://dbpedia.org/resource/Gibson_Explorer",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Fender_Stratocaster",
+      "http://dbpedia.org/resource/Guitar"
+    ],
+    "genre": "http://dbpedia.org/resource/Southern_rock",
+    "occupation": [
+      "http://dbpedia.org/resource/Musician",
+      "http://dbpedia.org/resource/Songwriter"
+    ],
+    "placeOfBirth": "http://dbpedia.org/resource/Jacksonville,_Florida",
+    "yearsActive": 1964,
+    "associatedBand": "http://dbpedia.org/resource/Lynyrd_Skynyrd"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Alva_Noto",
+    "wikiPageExternalLink": [
+      "http://www.castyourart.com/en/index.php/2009/04/01/carsten-nicolai-alva-noto-spaces-in-between/",
+      "http://www.alvanoto.com/",
+      "http://www.carstennicolai.com/",
+      "http://reviews.headphonecommute.com/2009/09/08/two-and-a-half-questions-with-carsten-nicolai/",
+      "http://www.kultureflash.net/archive/141/priview.html",
+      "http://www.zeitkratzer.de",
+      "http://www.eigen-art.com/Kuenstlerseiten/KuenstlerseiteCN/index_CN_EN.html",
+      "http://www.pingmag.jp/2005/05/01/carsten-nicolai-creating-space-between-things/",
+      "http://www.raster-noton.net/",
+      "http://www.saatchi-gallery.co.uk/artists/carsten_nicolai.htm",
+      "http://www.artcyclopedia.com/artists/nicolai_carsten.html"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Cyclo",
+      "http://dbpedia.org/resource/Noto"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/0/01/RasterNoton-NotoLive.png",
+    "foaf:name": "Alva Noto",
+    "hometown": [
+      "http://dbpedia.org/resource/Chemnitz",
+      "http://dbpedia.org/resource/Germany"
+    ],
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Laptop",
+      "http://dbpedia.org/resource/Electronic_keyboard",
+      "http://dbpedia.org/resource/Percussion_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Synthesizer",
+      "http://dbpedia.org/resource/Laptop",
+      "http://dbpedia.org/resource/Electronic_keyboard",
+      "http://dbpedia.org/resource/Percussion_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Synthesizer"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/Raster-Noton",
+      "http://dbpedia.org/resource/Mille_Plateaux"
+    ],
+    "birthName": "Carsten Nicolai",
+    "genre": [
+      "http://dbpedia.org/resource/Electronica",
+      "http://dbpedia.org/resource/Glitch_(music)",
+      "http://dbpedia.org/resource/Microsound"
+    ]
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Alvin_Lee",
+    "placeOfBirth": "Nottingham, England",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Mylon_LeFevre",
+      "http://dbpedia.org/resource/Ten_Years_After"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/6/65/Alvin_Lee.jpg",
+    "foaf:name": "Alvin Lee",
+    "wikiPageExternalLink": [
+      "http://www.alvinlee.com",
+      "http://www.alvinlee.com/",
+      "http://www.alvinlee.de"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1944-12-19T00:00:00.000Z",
+    "birthPlace": "http://dbpedia.org/resource/Nottingham",
+    "instrument": [
+      "http://dbpedia.org/resource/Gibson_ES-335",
+      "http://dbpedia.org/resource/Sitar",
+      "Vocals, guitar, bass, sitar"
+    ],
+    "recordLabel": "http://dbpedia.org/resource/Chrysalis_Records",
+    "birthName": "Graham Alvin Barnes",
+    "genre": [
+      "http://dbpedia.org/resource/Rock_music",
+      "http://dbpedia.org/resource/Rockabilly",
+      "http://dbpedia.org/resource/British_blues",
+      "http://dbpedia.org/resource/Blues_rock"
+    ],
+    "occupation": "Musician, songwriter",
+    "yearsActive": 1960,
+    "associatedBand": "http://dbpedia.org/resource/Mylon_LeFevre"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Am%C3%A9rico",
+    "foaf:name": [
+      "Americo",
+      "Américo"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Tropical_music",
+      "http://dbpedia.org/resource/Cumbia"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/2/2e/Américoenvivo.jpg",
+    "hometown": "http://dbpedia.org/resource/Arica",
+    "wikiPageExternalLink": [
+      "http://www.americo.cl",
+      "http://www.americo.cl/"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Am%C3%A9rico",
+    "birthDate": "1977-12-24T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Arica",
+      "http://dbpedia.org/resource/Chile"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Vocal_music",
+      "http://dbpedia.org/resource/Vocal_music"
+    ],
+    "recordLabel": "http://dbpedia.org/resource/Feria_Music",
+    "birthName": "Domingo Jonhy Vega Urzúa",
+    "occupation": "http://dbpedia.org/resource/Singer-songwriter",
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Arica",
+      "http://dbpedia.org/resource/Chile"
+    ],
+    "yearsActive": 1985,
+    "associatedBand": "http://dbpedia.org/resource/Am%C3%A9rico"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Amon_Tobin",
+    "occupation": [
+      "http://dbpedia.org/resource/Record_producer",
+      "http://dbpedia.org/resource/Musician",
+      "http://dbpedia.org/resource/Disc_jockey"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Two_Fingers",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/1/1a/Amon_tobin_luxemburg.jpg",
+    "foaf:name": "Amon Tobin",
+    "hometown": [
+      "http://dbpedia.org/resource/Rio_de_Janeiro",
+      "http://dbpedia.org/resource/Brazil"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.amontobin.com/",
+      "http://www.popmatters.com/pm/column/126242-that-cat-is-something-the-works-of-amon-tobin",
+      "http://ninjatune.net/artist/amon-tobin",
+      "http://thecreatorsproject.com/creators/amon-tobin",
+      "http://link.brightcove.com/services/player/bcpid3698508001?bctid=24993155001",
+      "http://www.amontobin.com",
+      "http://www.twofingersmusic.com"
+    ],
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthDate": "1972-02-07T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Rio_de_Janeiro",
+      "http://dbpedia.org/resource/Brazil"
+    ],
+    "recordLabel": "http://dbpedia.org/resource/Ninja_Tune",
+    "birthName": "Amon Adonai Santos de Araújo Tobin",
+    "genre": "http://dbpedia.org/resource/Electronic_music",
+    "instrument": "Synthesizers, keyboards, guitar, bass guitar, drums, saxophone, theremin, chapman stick, drum machine, sampler",
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Rio_de_Janeiro",
+      "http://dbpedia.org/resource/Brazil"
+    ],
+    "yearsActive": 1995
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Amy_Grant",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Vince_Gill",
+      "http://dbpedia.org/resource/Gary_Chapman_(musician)",
+      "http://dbpedia.org/resource/Michael_W._Smith"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/2/2d/AmyGrantHWOFSept2012.jpg",
+    "foaf:name": "Amy Grant",
+    "hometown": "http://dbpedia.org/resource/Nashville,_Tennessee",
+    "wikiPageExternalLink": [
+      "http://www.amygrant.com/",
+      "http://www.compassion.com",
+      "http://www.billboard.com/articles/news/958575/amy-grant-somewhere-down-the-road",
+      "http://www.chonnie.com/amy/"
+    ],
+    "birthDate": "1960-11-25T00:00:00.000Z",
+    "birthPlace": "http://dbpedia.org/resource/Augusta,_Georgia",
+    "instrument": [
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "Vocals, guitar, piano/keyboard"
+    ],
+    "recordLabel": [
+      "http://dbpedia.org/resource/Word_Records",
+      "http://dbpedia.org/resource/A&M_Records",
+      "http://dbpedia.org/resource/Myrrh_Records",
+      "http://dbpedia.org/resource/Sparrow_Records"
+    ],
+    "birthName": "Amy Lee Grant",
+    "genre": [
+      "http://dbpedia.org/resource/Soft_rock",
+      "http://dbpedia.org/resource/Contemporary_Christian_music",
+      "http://dbpedia.org/resource/Pop_rock"
+    ],
+    "occupation": "Singer-songwriter, musician, author, actress",
+    "placeOfBirth": "Augusta, Georgia, USA",
+    "yearsActive": 1976
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Ana_Caram",
+    "wikiPageExternalLink": "http://www.anacaram.com.br",
+    "foaf:name": "Ana Caram",
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Ant%C3%B4nio_Carlos_Jobim",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1958-10-01T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Brazil",
+      "http://dbpedia.org/resource/S%C3%A3o_Paulo"
+    ],
+    "recordLabel": "http://dbpedia.org/resource/Chesky_Records",
+    "genre": "http://dbpedia.org/resource/Bossa_nova",
+    "occupation": [
+      "http://dbpedia.org/resource/Guitarist",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Flautist"
+    ],
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Brazil",
+      "http://dbpedia.org/resource/S%C3%A3o_Paulo"
+    ],
+    "associatedBand": "http://dbpedia.org/resource/Ant%C3%B4nio_Carlos_Jobim"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Andi_Deris",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/9/90/2011-08_Woodstock_54.jpg",
+    "foaf:name": "Andi Deris",
+    "wikiPageExternalLink": [
+      "http://profile.myspace.com/37193853",
+      "http://www.myspace.com/come_in_from_the_rain"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Pink_Cream_69",
+      "http://dbpedia.org/resource/Helloween"
+    ],
+    "birthDate": "1964-08-18T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Germany",
+      "http://dbpedia.org/resource/Karlsruhe"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Human_voice",
+      "Vocals, Guitar, Keyboards"
+    ],
+    "recordLabel": "http://dbpedia.org/resource/Sony_Music_Entertainment",
+    "birthName": "Andreas Deris",
+    "genre": [
+      "http://dbpedia.org/resource/Speed_metal",
+      "http://dbpedia.org/resource/Power_metal",
+      "http://dbpedia.org/resource/Hard_rock",
+      "http://dbpedia.org/resource/Heavy_metal_music"
+    ],
+    "placeOfBirth": "Karlsruhe, Germany",
+    "yearsActive": 1979
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Andrew_Loog_Oldham",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/P._P._Arnold",
+      "http://dbpedia.org/resource/Marianne_Faithfull",
+      "http://dbpedia.org/resource/The_Nice",
+      "http://dbpedia.org/resource/Charly_Garc%C3%ADa",
+      "http://dbpedia.org/resource/Small_Faces",
+      "http://dbpedia.org/resource/The_Rolling_Stones",
+      "http://dbpedia.org/resource/Los_Ratones_Paranoicos"
+    ],
+    "background": [
+      "non_performing_personnel",
+      "non_performing_personnel"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/8/8d/Alo_bio_2010_Small.jpg",
+    "foaf:name": "Andrew Loog Oldham",
+    "hometown": [
+      "http://dbpedia.org/resource/London",
+      "http://dbpedia.org/resource/England"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.channeledbymodem.com/",
+      "http://www.bbc.co.uk/music/release/b3jw/",
+      "http://www.andrewloogoldham.com",
+      "http://www.bside-rock.com/The-Rolling-Stones-Songbook.html",
+      "http://www.burbler.com/the-rolling-stones-andrews-blues-aka-song-for-andrew-lyrics.html"
+    ],
+    "birthDate": "1944-01-29T00:00:00.000Z",
+    "occupation": "Record Producer, manager, impresario and author",
+    "associatedBand": "http://dbpedia.org/resource/Charly_Garc%C3%ADa"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Andy_McCluskey",
+    "hometown": [
+      "http://dbpedia.org/resource/Heswall",
+      "http://dbpedia.org/resource/England",
+      "http://dbpedia.org/resource/Metropolitan_Borough_of_Wirral"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/The_Id",
+      "http://dbpedia.org/resource/Orchestral_Manoeuvres_in_the_Dark",
+      "http://dbpedia.org/resource/Dalek_I_Love_You",
+      "http://dbpedia.org/resource/Atomic_Kitten"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Songwriter",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Keyboardist",
+      "http://dbpedia.org/resource/Bassist",
+      "http://dbpedia.org/resource/Record_producer"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/1/18/Andy_McCluskey_2008.JPG",
+    "foaf:name": "Andy McCluskey",
+    "wikiPageExternalLink": "http://www.omd.uk.com",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1959-06-24T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Rickenbacker_4001",
+      "http://dbpedia.org/resource/Fender_Jazz_Bass",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "birthName": "George Andrew McCluskey",
+    "genre": [
+      "http://dbpedia.org/resource/New_Wave_music",
+      "http://dbpedia.org/resource/Synthpop"
+    ],
+    "associatedBand": "http://dbpedia.org/resource/Orchestral_Manoeuvres_in_the_Dark"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Andy_McKee",
+    "wikiPageExternalLink": [
+      "http://www.youtube.com/watch?v=qCyxryvKQQo",
+      "http://www.andymckee.com/",
+      "http://www.youtube.com/watch?v=ovYkLtFbjM8",
+      "http://www.youtube.com/watch?v=AzWuP5hINNo",
+      "http://www.fingerstyleguitarists.com/news/27-nine-questions-with-Andy-McKee-Interview",
+      "http://www.youtube.com/watch?v=II39Y9yrmB0",
+      "http://www.myspace.com/andymckee2",
+      "http://instrumentalcase.com/McKee.aspx",
+      "http://www.razorandtie.com/artist/andy-mckee",
+      "http://www.candyrat.com/artists/andymckee/"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/5/5d/Andy_McKee_Live.jpg",
+    "foaf:name": "Andy McKee",
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Sungha_Jung",
+    "background": [
+      "non_vocal_instrumentalist",
+      "non_vocal_instrumentalist"
+    ],
+    "birthDate": "1979-04-04T00:00:00.000Z",
+    "birthPlace": "http://dbpedia.org/resource/Topeka,_Kansas",
+    "instrument": [
+      "http://dbpedia.org/resource/Baritone_guitar",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Harp_guitar",
+      "http://dbpedia.org/resource/Baritone_guitar",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Harp_guitar"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Fingerstyle_guitar",
+      "http://dbpedia.org/resource/Instrumental",
+      "http://dbpedia.org/resource/American_folk_music"
+    ],
+    "occupation": "http://dbpedia.org/resource/Guitarist",
+    "placeOfBirth": "Topeka, Kansas, U.S.",
+    "yearsActive": 2001,
+    "associatedBand": "http://dbpedia.org/resource/Sungha_Jung"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Andy_Partridge",
+    "recordLabel": [
+      "http://dbpedia.org/resource/Virgin_Records",
+      "http://dbpedia.org/resource/Idea_Records"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Piano",
+      "http://dbpedia.org/resource/Guitar"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Andy_Partridge.jpg",
+    "foaf:name": "Andy Partridge",
+    "hometown": [
+      "http://dbpedia.org/resource/Swindon",
+      "http://dbpedia.org/resource/Wiltshire"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.ape.uk.net",
+      "http://www.bbc.co.uk/wiltshire/content/articles/2009/03/23/andy_partridge_swindon_rpm_1981_feature.shtml",
+      "http://ape.uk.net",
+      "http://www.ericawexler.co.uk",
+      "http://www.blogtalkradio.com/runt/2008/02/17/Rundgren-Radio",
+      "http://www.bbc.co.uk/wiltshire",
+      "http://www.bbc.co.uk/wiltshire/content/articles/2009/04/14/andy_partridge_interview_feature.shtml",
+      "http://sodajerker.com/episode-8-andy-partridge"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/The_Dukes_of_Stratosphear",
+      "http://dbpedia.org/resource/XTC"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1953-11-11T00:00:00.000Z",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Imtarfa",
+      "http://dbpedia.org/resource/Malta"
+    ],
+    "birthName": "Andrew John Partridge",
+    "genre": [
+      "http://dbpedia.org/resource/Pop_music",
+      "http://dbpedia.org/resource/New_Wave_music"
+    ],
+    "occupation": "Musician, songwriter, record producer",
+    "placeOfBirth": [
+      "http://dbpedia.org/resource/Imtarfa",
+      "http://dbpedia.org/resource/Malta"
+    ],
+    "yearsActive": 1972,
+    "associatedBand": "http://dbpedia.org/resource/XTC"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Anita_Doth",
+    "hometown": "http://dbpedia.org/resource/Netherlands",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Netherlands",
+      "http://dbpedia.org/resource/Amsterdam"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/a/a4/Anita_Doth_1995.jpg",
+    "foaf:name": "Anita Doth",
+    "wikiPageExternalLink": "http://www.imdb.com/name/nm0234526/",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Ray_&_Anita",
+      "http://dbpedia.org/resource/2_Unlimited",
+      "http://dbpedia.org/resource/Divas_of_Dance"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1971-12-28T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "birthName": "Anita Daniëlle Doth",
+    "genre": [
+      "http://dbpedia.org/resource/Techno",
+      "http://dbpedia.org/resource/Dance_music",
+      "http://dbpedia.org/resource/Eurodance",
+      "http://dbpedia.org/resource/House_music",
+      "http://dbpedia.org/resource/Hi-NRG",
+      "http://dbpedia.org/resource/Soul_music",
+      "http://dbpedia.org/resource/Pop_music"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Disc_jockey",
+      "http://dbpedia.org/resource/Presenter",
+      "http://dbpedia.org/resource/Songwriter"
+    ],
+    "placeOfBirth": "Amsterdam, Netherlands",
+    "yearsActive": 1991
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Ann_Wilson",
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "instrument": [
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Percussion_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Violin",
+      "http://dbpedia.org/resource/Flute",
+      "http://dbpedia.org/resource/Autoharp",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Percussion_instrument",
+      "http://dbpedia.org/resource/Guitar",
+      "http://dbpedia.org/resource/Bass_guitar",
+      "http://dbpedia.org/resource/Violin",
+      "http://dbpedia.org/resource/Flute",
+      "http://dbpedia.org/resource/Autoharp",
+      "http://dbpedia.org/resource/Keyboard_instrument"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/4/4f/AnnWilsonHWOFSept2012.jpg",
+    "foaf:name": "Ann Wilson",
+    "wikiPageExternalLink": [
+      "http://www.myspace.com/officialannwilson",
+      "http://www.garyfrymusic.com/",
+      "http://www.heart-music.com/"
+    ],
+    "associatedMusicalArtist": "http://dbpedia.org/resource/Heart_(band)",
+    "birthDate": "1950-06-19T00:00:00.000Z",
+    "birthPlace": "http://dbpedia.org/resource/San_Diego",
+    "birthName": "Ann Dustin Wilson",
+    "genre": [
+      "http://dbpedia.org/resource/Pop_rock",
+      "http://dbpedia.org/resource/Rock_music",
+      "http://dbpedia.org/resource/Hard_rock",
+      "http://dbpedia.org/resource/Folk_rock"
+    ],
+    "placeOfBirth": "San Diego, California",
+    "yearsActive": 1970,
+    "associatedBand": "http://dbpedia.org/resource/Heart_(band)"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Anna_Abreu",
+    "wikiPageExternalLink": [
+      "http://www.anna-abreu.fi/",
+      "http://www.anna-abreu.fi",
+      "http://www.myspace.com/annaabreumusic"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/5/52/Anna_abreu.jpg",
+    "foaf:name": "Anna Abreu",
+    "hometown": "http://dbpedia.org/resource/Vantaa",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Ari_Koivunen",
+      "http://dbpedia.org/resource/Hanna_Pakarinen",
+      "http://dbpedia.org/resource/Redrama"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1990-02-07T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Human_voice",
+      "http://dbpedia.org/resource/Human_voice"
+    ],
+    "recordLabel": "http://dbpedia.org/resource/RCA_Records",
+    "birthName": "Anna Eira Margarida Mourão de Melo e Abreu",
+    "genre": [
+      "http://dbpedia.org/resource/Pop_music",
+      "http://dbpedia.org/resource/Rhythm_and_blues",
+      "http://dbpedia.org/resource/Dance_music"
+    ],
+    "yearsActive": 2006
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Anna_Vissi",
+    "birthPlace": [
+      "http://dbpedia.org/resource/Larnaca_District",
+      "http://dbpedia.org/resource/Cyprus",
+      "http://dbpedia.org/resource/Larnaca",
+      "http://dbpedia.org/resource/Pyla"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Nikos_Karvelas",
+      "http://dbpedia.org/resource/Epikouri"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/c/cb/AnnaVissiatAthinonArena.jpg",
+    "foaf:name": [
+      "Anna Vissi",
+      "Άννα Βίσση"
+    ],
+    "hometown": [
+      "http://dbpedia.org/resource/Cyprus",
+      "http://dbpedia.org/resource/Larnaca"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.fannatics.gr",
+      "http://annavissilive.com",
+      "http://www.AnnaVissi.net",
+      "http://www.sonymusic.gr/page/artist/artists_greek.asp?art_id=38",
+      "http://www.rodacino.gr/article.jsf?id=67D0762757423CFB880CC08C4178A0D3&at=3"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1957-12-20T00:00:00.000Z",
+    "recordLabel": [
+      "http://dbpedia.org/resource/Minos_EMI",
+      "http://dbpedia.org/resource/Moda_Records",
+      "http://dbpedia.org/resource/Sony_Music_Entertainment"
+    ],
+    "genre": "Laïko, pop, dance, entehno, pop rock",
+    "instrument": "Vocals",
+    "occupation": "Singer, songwriter, actress, television presenter, radio personality, businesswoman",
+    "placeOfBirth": "Pyla, Larnaca, Cyprus",
+    "yearsActive": 1973,
+    "associatedBand": "http://dbpedia.org/resource/Nikos_Karvelas"
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Anne_Clark",
+    "hometown": [
+      "http://dbpedia.org/resource/Croydon",
+      "http://dbpedia.org/resource/London",
+      "http://dbpedia.org/resource/England"
+    ],
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/9/93/Anne_Clark_Castle_Party_2008_02.jpg",
+    "foaf:name": "Anne Clark",
+    "wikiPageExternalLink": [
+      "http://www.anneclarkofficial.com/",
+      "http://www.netMusicZone.com/"
+    ],
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Eyeless_in_Gaza_(band)",
+      "http://dbpedia.org/resource/Martyn_Bates"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1960-05-14T00:00:00.000Z",
+    "recordLabel": [
+      "http://dbpedia.org/resource/Red_Flame",
+      "http://dbpedia.org/resource/SPV_GmbH",
+      "http://dbpedia.org/resource/EMI",
+      "http://dbpedia.org/resource/Virgin_Records",
+      "http://dbpedia.org/resource/Sony_BMG",
+      "http://dbpedia.org/resource/NetMusicZone",
+      "http://dbpedia.org/resource/Ten_Records"
+    ],
+    "genre": [
+      "http://dbpedia.org/resource/Avant-garde",
+      "http://dbpedia.org/resource/Electronic_music",
+      "http://dbpedia.org/resource/New_Wave_music",
+      "http://dbpedia.org/resource/Dark_wave"
+    ],
+    "occupation": [
+      "http://dbpedia.org/resource/Poet",
+      "http://dbpedia.org/resource/Songwriter",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "yearsActive": 1982
+  },
+  {
+    "@subject": "http://dbpedia.org/resource/Annette_Humpe",
+    "foaf:depiction": "http://upload.wikimedia.org/wikipedia/commons/b/b5/HumpeAnnetteHahnenklee.jpg",
+    "associatedMusicalArtist": [
+      "http://dbpedia.org/resource/Trio_(band)",
+      "http://dbpedia.org/resource/Ich_+_Ich",
+      "http://dbpedia.org/resource/Ideal_(German_band)"
+    ],
+    "foaf:name": "Annette Humpe",
+    "hometown": [
+      "http://dbpedia.org/resource/Hagen",
+      "http://dbpedia.org/resource/Germany"
+    ],
+    "wikiPageExternalLink": [
+      "http://www.ich-und-ich.de",
+      "http://www.kayboard.de/?Lifestyle:Biographien:Annette_Humpe"
+    ],
+    "background": [
+      "solo_singer",
+      "solo_singer"
+    ],
+    "birthDate": "1950-10-28T00:00:00.000Z",
+    "instrument": [
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Singing",
+      "http://dbpedia.org/resource/Keyboard_instrument",
+      "http://dbpedia.org/resource/Singing"
+    ],
+    "recordLabel": "http://dbpedia.org/resource/Universal_Music_Group",
+    "birthName": "Annette Humpe",
+    "genre": [
+      "http://dbpedia.org/resource/Pop_music",
+      "http://dbpedia.org/resource/Rock_music"
+    ],
+    "occupation": "Record producer, songwriter, singer",
+    "yearsActive": 1979
+  }
+]
