@@ -1,0 +1,47 @@
+[
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<19722NM0010001>"
+}
+,
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<19722NM0010002>"
+}
+,
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<19722NM0010003>"
+}
+,
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<57173NM0120001>"
+}
+,
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<57173NM0120002>"
+}
+,
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<57173NM0120003>"
+}
+,
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<57173NM0130001>"
+}
+,
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<57173NM0130005>"
+}
+,
+{
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<57173NM0130009>"
+}
+
+]

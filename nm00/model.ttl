@@ -1,0 +1,41 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix k3: <http://karma.isi.edu/visualization/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node18teaa6bvx1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "dataset-10.csv" ;
+	km-dev:modelPublicationTime "1406008629631"^^xsd:long ;
+	km-dev:modelVersion "1.6" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"Plan ID (standard component)\"}]]" ;
+	km-dev:hasOutputColumns "[]" ;
+	km-dev:hasModelLabel "nm00" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory "[{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"nm00\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"metaPropertyName\",\"value\":\"isUriOfClass\",\"type\":\"other\"},{\"name\":\"metaPropertyValue\",\"value\":\"http://karma.isi.edu/visualization/Circle\",\"type\":\"other\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"Plan ID (standard component)\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"FullType\":\"http://isi.edu/integration/karma/dev#classLink\",\"isPrimary\":true,\"DomainLabel\":\"k3:Circle1 (add)\",\"DomainId\":\"http://karma.isi.edu/visualization/Circle1\",\"DomainUri\":\"http://karma.isi.edu/visualization/Circle\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetMetaPropertyCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"nm00\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"}]" .
+
+km-dev:TriplesMap_8884468a-9706-4c76-a6ff-7a1a4faa0980 a rr:TriplesMap .
+
+_:node18teaa6bvx1 km-dev:hasTriplesMap km-dev:TriplesMap_8884468a-9706-4c76-a6ff-7a1a4faa0980 .
+
+km-dev:TriplesMap_8884468a-9706-4c76-a6ff-7a1a4faa0980 km-dev:isPartOfMapping _:node18teaa6bvx1 .
+
+_:node18teaa6bvx2 rr:tableName "dataset-10.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node18teaa6bvx1 .
+
+_:node18teaa6bvx1 km-dev:hasLogicalTable _:node18teaa6bvx2 .
+
+km-dev:TriplesMap_8884468a-9706-4c76-a6ff-7a1a4faa0980 rr:logicalTable _:node18teaa6bvx2 ;
+	rr:subjectMap _:node18teaa6bvx3 .
+
+_:node18teaa6bvx1 km-dev:hasSubjectMap _:node18teaa6bvx3 .
+
+_:node18teaa6bvx3 km-dev:isPartOfMapping _:node18teaa6bvx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://karma.isi.edu/visualization/Circle1" ;
+	rr:class k3:Circle ;
+	rr:template "{Plan ID (standard component)}" ;
+	a km-dev:steinerTreeRootNode .
