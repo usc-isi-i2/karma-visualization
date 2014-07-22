@@ -1,0 +1,75 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix k3: <http://karma.isi.edu/visualization/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node18te006p5x1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "dataset-10.csv" ;
+	km-dev:modelPublicationTime "1405997816613"^^xsd:long ;
+	km-dev:modelVersion "1.6" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"Metal Level\"}],[{\"columnName\":\"Medical Maximum Out Of Pocket - individual - standard\"}],[{\"columnName\":\"Plan ID (standard component)\"}]]" ;
+	km-dev:hasOutputColumns "[]" ;
+	km-dev:hasModelLabel "nm02" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory "[{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"nm02\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"alignmentNodeId\",\"value\":\"http://karma.isi.edu/visualization/Circle1\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"WS1\",\"type\":\"other\"}],\"commandName\":\"ExportJSONCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"alignmentNodeId\",\"value\":\"http://karma.isi.edu/visualization/Circle1\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"WS1\",\"type\":\"other\"}],\"commandName\":\"ExportJSONCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"metaPropertyName\",\"value\":\"isUriOfClass\",\"type\":\"other\"},{\"name\":\"metaPropertyValue\",\"value\":\"http://karma.isi.edu/visualization/Circle\",\"type\":\"other\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"Plan ID (standard component)\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"FullType\":\"http://isi.edu/integration/karma/dev#classLink\",\"isPrimary\":true,\"DomainLabel\":\"k3:Circle1 (add)\",\"DomainId\":\"http://karma.isi.edu/visualization/Circle1 (add)\",\"DomainUri\":\"http://karma.isi.edu/visualization/Circle\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetMetaPropertyCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"alignmentNodeId\",\"value\":\"http://karma.isi.edu/visualization/Circle1\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"WS1\",\"type\":\"other\"}],\"commandName\":\"ExportJSONCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"Medical Maximum Out Of Pocket - individual - standard\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"FullType\":\"http://karma.isi.edu/visualization/size\",\"isPrimary\":true,\"DomainLabel\":\"k3:Circle1\",\"DomainId\":\"http://karma.isi.edu/visualization/Circle1\",\"DomainUri\":\"http://karma.isi.edu/visualization/Circle\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetSemanticTypeCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"alignmentNodeId\",\"value\":\"http://karma.isi.edu/visualization/Circle1\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"WS1\",\"type\":\"other\"}],\"commandName\":\"ExportJSONCommand\"},{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"alignmentNodeId\",\"value\":\"http://karma.isi.edu/visualization/Circle1\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"WS1\",\"type\":\"other\"}],\"commandName\":\"ExportJSONCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"Metal Level\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"FullType\":\"http://karma.isi.edu/visualization/fillColor\",\"isPrimary\":true,\"DomainLabel\":\"k3:Circle1\",\"DomainId\":\"http://karma.isi.edu/visualization/Circle1\",\"DomainUri\":\"http://karma.isi.edu/visualization/Circle\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetSemanticTypeCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"properties\",\"value\":{\"hasServiceProperties\":false,\"hasPrefix\":false,\"graphLabel\":\"nm02\",\"hasBaseURI\":false},\"type\":\"other\"}],\"commandName\":\"SetWorksheetPropertiesCommand\"}]" .
+
+km-dev:TriplesMap_f9a91472-8fec-4509-9029-3a54bfa55d6d a rr:TriplesMap .
+
+_:node18te006p5x1 km-dev:hasTriplesMap km-dev:TriplesMap_f9a91472-8fec-4509-9029-3a54bfa55d6d .
+
+km-dev:TriplesMap_f9a91472-8fec-4509-9029-3a54bfa55d6d km-dev:isPartOfMapping _:node18te006p5x1 .
+
+_:node18te006p5x2 rr:tableName "dataset-10.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node18te006p5x1 .
+
+_:node18te006p5x1 km-dev:hasLogicalTable _:node18te006p5x2 .
+
+km-dev:TriplesMap_f9a91472-8fec-4509-9029-3a54bfa55d6d rr:logicalTable _:node18te006p5x2 ;
+	rr:subjectMap _:node18te006p5x3 .
+
+_:node18te006p5x1 km-dev:hasSubjectMap _:node18te006p5x3 .
+
+_:node18te006p5x3 km-dev:isPartOfMapping _:node18te006p5x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://karma.isi.edu/visualization/Circle1" ;
+	rr:class k3:Circle ;
+	rr:template "{Plan ID (standard component)}" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_dab61982-b328-456f-900f-9d0063ee54e9 rr:predicate k3:fillColor .
+
+_:node18te006p5x4 rr:column "Metal Level" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node18te006p5x1 .
+
+_:node18te006p5x1 km-dev:hasObjectMap _:node18te006p5x4 .
+
+km-dev:PredicateObjectMap_dab61982-b328-456f-900f-9d0063ee54e9 rr:objectMap _:node18te006p5x4 .
+
+km-dev:TriplesMap_f9a91472-8fec-4509-9029-3a54bfa55d6d rr:predicateObjectMap km-dev:PredicateObjectMap_dab61982-b328-456f-900f-9d0063ee54e9 .
+
+km-dev:PredicateObjectMap_dab61982-b328-456f-900f-9d0063ee54e9 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node18te006p5x1 .
+
+_:node18te006p5x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_dab61982-b328-456f-900f-9d0063ee54e9 .
+
+km-dev:PredicateObjectMap_85c831d6-9457-43bd-b46c-f855868b7b88 rr:predicate k3:size .
+
+_:node18te006p5x5 rr:column "Medical Maximum Out Of Pocket - individual - standard" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node18te006p5x1 .
+
+_:node18te006p5x1 km-dev:hasObjectMap _:node18te006p5x5 .
+
+km-dev:PredicateObjectMap_85c831d6-9457-43bd-b46c-f855868b7b88 rr:objectMap _:node18te006p5x5 .
+
+km-dev:TriplesMap_f9a91472-8fec-4509-9029-3a54bfa55d6d rr:predicateObjectMap km-dev:PredicateObjectMap_85c831d6-9457-43bd-b46c-f855868b7b88 .
+
+km-dev:PredicateObjectMap_85c831d6-9457-43bd-b46c-f855868b7b88 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node18te006p5x1 .
+
+_:node18te006p5x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_85c831d6-9457-43bd-b46c-f855868b7b88 .
