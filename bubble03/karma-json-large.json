@@ -1,272 +1,6002 @@
 [
 {
-    "k3:size": 6350,
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
     "k3:fillColor": "Bronze",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<93091NM0010006>"
+    "@id": "<SANJUAN/57173NM0140003>"
 },
 {
-    "k3:size": 6000,
-    "k3:fillColor": "Silver",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0370003>"
-},
-{
-    "k3:size": 3250,
+    "k3:size": "3,500",
     "k3:fillColor": "Gold",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0370001>"
+    "@id": "<BERNALILLO/75605NM0370002>"
 },
 {
-    "k3:size": 6250,
-    "k3:fillColor": "Bronze",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0330005>"
-},
-{
-    "k3:size": 6350,
-    "k3:fillColor": "Silver",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0350003>"
-},
-{
-    "k3:size": 6000,
-    "k3:fillColor": "Silver",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0390003>"
-},
-{
-    "k3:size": 6350,
-    "k3:fillColor": "Silver",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0130013>"
-},
-{
-    "k3:size": 6350,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0120001>"
-},
-{
-    "k3:size": 6000,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<93091NM0010001>"
-},
-{
-    "k3:size": 6350,
-    "k3:fillColor": "Silver",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<93091NM0030002>"
-},
-{
-    "k3:size": 6250,
-    "k3:fillColor": "Bronze",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0390005>"
-},
-{
-    "k3:size": 6350,
-    "k3:fillColor": "Silver",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0330004>"
-},
-{
-    "k3:size": 6350,
+    "k3:size": "6,350",
     "k3:fillColor": "Catastrophic",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0150001>"
+    "@id": "<LOSALAMOS/57173NM0150001>"
 },
 {
-    "k3:size": 6350,
+    "k3:size": "6,000",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0370004>"
+    "@id": "<CHAVES/75605NM0390003>"
 },
 {
-    "k3:size": 6350,
+    "k3:size": "6,350",
     "k3:fillColor": "Bronze",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0140001>"
+    "@id": "<MORA/19722NM0010003>"
 },
 {
-    "k3:size": 6000,
-    "k3:fillColor": "Silver",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0330003>"
-},
-{
-    "k3:size": 6000,
+    "k3:size": "6,250",
     "k3:fillColor": "Bronze",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0370006>"
+    "@id": "<MORA/75605NM0390005>"
 },
 {
-    "k3:size": 3500,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0370002>"
-},
-{
-    "k3:size": 6350,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0120003>"
-},
-{
-    "k3:size": 6350,
+    "k3:size": "6,350",
     "k3:fillColor": "Bronze",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0140003>"
+    "@id": "<GUADALUPE/57173NM0140002>"
 },
 {
-    "k3:size": 6350,
+    "k3:size": "6,000",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<93091NM0020001>"
+    "@id": "<ROOSEVELT/75605NM0390003>"
 },
 {
-    "k3:size": 2750,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0350001>"
-},
-{
-    "k3:size": 5000,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<93091NM0030001>"
-},
-{
-    "k3:size": 3500,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0390002>"
-},
-{
-    "k3:size": 6350,
+    "k3:size": "6,000",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0130001>"
+    "@id": "<QUAY/75605NM0330003>"
 },
 {
-    "k3:size": 6250,
+    "k3:size": "6,250",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0350004>"
+    "@id": "<CURRY/75605NM0350004>"
 },
 {
-    "k3:size": 6350,
+    "k3:size": "6,350",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0390004>"
+    "@id": "<BERNALILLO/75605NM0370004>"
 },
 {
-    "k3:size": 3250,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0390001>"
-},
-{
-    "k3:size": 4000,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0350002>"
-},
-{
-    "k3:size": 6250,
+    "k3:size": "6,250",
     "k3:fillColor": "Bronze",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0370005>"
+    "@id": "<ROOSEVELT/75605NM0390005>"
 },
 {
-    "k3:size": 6000,
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0120002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
     "k3:fillColor": "Bronze",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0390006>"
+    "@id": "<SANJUAN/57173NM0140002>"
 },
 {
-    "k3:size": 3250,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0330001>"
-},
-{
-    "k3:size": 6350,
+    "k3:size": "6,000",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0130005>"
+    "@id": "<DEBACA/75605NM0390003>"
 },
 {
-    "k3:size": 3500,
+    "k3:size": "5,000",
     "k3:fillColor": "Gold",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0330002>"
+    "@id": "<SANMIGUEL/93091NM0030001>"
 },
 {
-    "k3:size": 6350,
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0350001>"
+},
+{
+    "k3:size": "6,000",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0130009>"
+    "@id": "<HARDING/75605NM0390003>"
 },
 {
-    "k3:size": 6350,
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0390001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
     "k3:fillColor": "Catastrophic",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<93091NM0010007>"
+    "@id": "<LEA/57173NM0150001>"
 },
 {
-    "k3:size": 6000,
-    "k3:fillColor": "Bronze",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0330006>"
-},
-{
-    "k3:size": 6350,
-    "k3:fillColor": "Bronze",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<19722NM0010003>"
-},
-{
-    "k3:size": 6350,
+    "k3:size": "6,350",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<19722NM0010002>"
+    "@id": "<GRANT/57173NM0130001>"
 },
 {
-    "k3:size": 6350,
+    "k3:size": "6,250",
     "k3:fillColor": "Bronze",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0140002>"
+    "@id": "<EDDY/75605NM0350005>"
 },
 {
-    "k3:size": 6350,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<57173NM0120002>"
-},
-{
-    "k3:size": 6350,
+    "k3:size": "6,350",
     "k3:fillColor": "Catastrophic",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0330010>"
+    "@id": "<OTERO/93091NM0010007>"
 },
 {
-    "k3:size": 6350,
-    "k3:fillColor": "Gold",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<19722NM0010001>"
-},
-{
-    "k3:size": 6250,
-    "k3:fillColor": "Bronze",
-    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<75605NM0350005>"
-},
-{
-    "k3:size": 6350,
+    "k3:size": "6,350",
     "k3:fillColor": "Silver",
     "@type": ["<http://karma.isi.edu/visualization/Circle>"],
-    "@id": "<93091NM0010002>"
+    "@id": "<LINCOLN/57173NM0130013>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0350002>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0330004>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0120001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0350004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0330006>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0390003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0350005>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0390004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0120001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0120003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/93091NM0010001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0140001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0390005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0330005>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/93091NM0030002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0330001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0350005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0130009>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0390001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0330002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0350005>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/93091NM0020001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0330004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/93091NM0020001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0130013>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0130009>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/93091NM0010002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0330005>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0390004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0130005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0330004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/93091NM0030002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0390006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0330005>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0390004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0120003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0390005>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0330001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0350002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0330004>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/19722NM0010001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0330005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0330010>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0150001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0330003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0120001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0140001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/19722NM0010002>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0350001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0350002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0140002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0130001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0330003>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/19722NM0010001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0390003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/19722NM0010001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/93091NM0010002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0350005>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0350003>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0130009>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/93091NM0010002>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0350002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0130001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0140001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0350004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0390006>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/93091NM0030002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/93091NM0010002>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/93091NM0030001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0330004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0130005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/93091NM0030002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0140001>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/93091NM0010006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0330005>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0130005>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0130005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0350003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0350003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0330004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/19722NM0010003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0330002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0330001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0140001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0350005>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/93091NM0030001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0390003>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0120001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/93091NM0030002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0140003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/19722NM0010002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0330006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0130001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0140002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0120003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/19722NM0010002>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0130013>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0130013>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0390004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0330004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0350003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0120002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0390003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0390001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0140003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0330003>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0130001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/93091NM0010007>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0390006>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0130009>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/19722NM0010002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0330004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0330005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0120001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0370003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0350004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0130005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0130001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0350004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0120001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0120001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0330001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0370003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0120003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0330010>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0120003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/93091NM0010001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0330005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/19722NM0010002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0330006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0130005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0150001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0390003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/19722NM0010003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0390003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/93091NM0010006>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0390003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/93091NM0010002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0120002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0390003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0370001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/19722NM0010001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0130001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0140001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0370005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0120002>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0150001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0140001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0390001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0350002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0390006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/19722NM0010003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0140001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0120003>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0350002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0390002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0330006>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0330001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/19722NM0010001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0390001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0350002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0390004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0330006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0350004>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0350002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/93091NM0030002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/93091NM0010002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0390002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0330006>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0390001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0120003>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0350001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0330006>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/93091NM0030002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0370002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0140001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0350002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0390004>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0330010>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0330006>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/93091NM0010002>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/93091NM0030001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0130001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0150001>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/93091NM0030001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0120003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0390001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/93091NM0010006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0350004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0390005>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0350003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0330003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0130001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0130009>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0120003>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0120003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0350004>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0150001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0350003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0390003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0120002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0390005>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0330010>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0330001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0140002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0330002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/93091NM0030002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0350003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/93091NM0030002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/93091NM0010001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0120001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/19722NM0010003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0330002>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/93091NM0030001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0140003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0330005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/93091NM0010001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0140002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/93091NM0010002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/19722NM0010002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0330003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0350005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0350005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0140003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0350003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/19722NM0010003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0330004>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0120001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0140001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0390003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0350005>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0120003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0330006>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/93091NM0030001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/93091NM0010006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0350004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0140002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/93091NM0010001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0330010>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0330002>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0330004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0120001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0130001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0140002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/93091NM0010007>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/93091NM0030001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0120002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0130001>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/93091NM0030001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0350004>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0330002>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0150001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0140001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0130001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0350003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0330004>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0390002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/93091NM0010007>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/19722NM0010001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0370001>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0350001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0330006>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0150001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/93091NM0010007>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0350004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0140003>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0130013>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/93091NM0010007>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0130001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/93091NM0010001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0130009>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/19722NM0010003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0330003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0120001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/19722NM0010003>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0150001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0350002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0390003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0390005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0390006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0140002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/93091NM0010006>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0120001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0350002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/19722NM0010002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0390003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/93091NM0030002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/19722NM0010003>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0350001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0330010>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0120003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0140003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/93091NM0010002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/93091NM0010007>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/19722NM0010003>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/93091NM0030001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0330003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0350003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0330003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0330006>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/93091NM0010006>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0140001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0390004>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/93091NM0030001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0140003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0390002>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0330004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/93091NM0010001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0120002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0390002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0370004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0130013>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/93091NM0030002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0130009>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0330004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/93091NM0010001>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0350001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0130001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/19722NM0010002>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/93091NM0010007>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0350001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/19722NM0010001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/93091NM0010002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0350003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0330001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/93091NM0010001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0370006>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0330010>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0130005>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0330010>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0370005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0330010>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0350001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/57173NM0120002>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0350002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0390002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/19722NM0010001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0350004>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0330005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0120002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0390006>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0130013>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0350004>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/75605NM0330010>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0120002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/93091NM0010001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0330002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/93091NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0120001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/19722NM0010003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0140001>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0120003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/93091NM0010006>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/93091NM0010002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0390002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/19722NM0010003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0390002>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0390002>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/93091NM0030001>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0350002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/57173NM0130013>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0350001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0330006>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0130013>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0330003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0390001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0140002>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0350005>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0130005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0330005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0350005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0130013>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0120003>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0130001>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0120001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/19722NM0010001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0370006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/93091NM0030002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0130001>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0330004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0390004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/19722NM0010001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0140001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/75605NM0390002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0330004>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0390003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/57173NM0140001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/93091NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<ROOSEVELT/57173NM0150001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0140001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0330003>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0330001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0120003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/57173NM0130009>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/93091NM0030001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0140001>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/75605NM0390004>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0390001>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/93091NM0010006>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0390001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/57173NM0130005>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CURRY/75605NM0330005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DONAANA/75605NM0330010>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/57173NM0120003>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0140003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/57173NM0120001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0140002>"
+},
+{
+    "k3:size": "5,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/93091NM0030001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0390002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0330010>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/57173NM0140001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0330003>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/93091NM0010001>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0330010>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/93091NM0010006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0120002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CIBOLA/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0150001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0390006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0140002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0330001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0330006>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0390001>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0330003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/57173NM0130013>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GUADALUPE/75605NM0330005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<OTERO/19722NM0010002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LEA/19722NM0010001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/57173NM0130005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/19722NM0010003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/93091NM0030002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0140002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/57173NM0130001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/93091NM0030002>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CHAVES/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0330010>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<DEBACA/75605NM0330006>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<COLFAX/75605NM0350005>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANMIGUEL/75605NM0390003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<BERNALILLO/75605NM0390005>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0350003>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LOSALAMOS/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0130009>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Catastrophic",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/93091NM0010007>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/57173NM0130005>"
+},
+{
+    "k3:size": "4,000",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/75605NM0350002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<RIOARRIBA/75605NM0330006>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HARDING/75605NM0390004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/19722NM0010002>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LUNA/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<CATRON/93091NM0010002>"
+},
+{
+    "k3:size": "3,250",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANJUAN/75605NM0330001>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<SANDOVAL/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/57173NM0120002>"
+},
+{
+    "k3:size": "6,000",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/75605NM0330003>"
+},
+{
+    "k3:size": "2,750",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<LINCOLN/75605NM0350001>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MORA/57173NM0130013>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<MCKINLEY/75605NM0350003>"
+},
+{
+    "k3:size": "3,500",
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<EDDY/75605NM0330002>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<HIDALGO/75605NM0330004>"
+},
+{
+    "k3:size": "6,350",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<GRANT/57173NM0140003>"
+},
+{
+    "k3:size": "6,250",
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<QUAY/75605NM0330005>"
 }
 ]
