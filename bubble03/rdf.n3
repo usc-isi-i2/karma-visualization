@@ -1,36 +1,36 @@
-<http://localhost:8080/source/19722NM0010001> <http://karma.isi.edu/visualization/size> "6,350" .
 <http://localhost:8080/source/19722NM0010001> <http://karma.isi.edu/visualization/fillColor> "Gold" .
+<http://localhost:8080/source/19722NM0010001> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 <http://localhost:8080/source/19722NM0010001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
 
 <http://localhost:8080/source/19722NM0010002> <http://karma.isi.edu/visualization/fillColor> "Silver" .
-<http://localhost:8080/source/19722NM0010002> <http://karma.isi.edu/visualization/size> "6,350" .
 <http://localhost:8080/source/19722NM0010002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://localhost:8080/source/19722NM0010002> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
-<http://localhost:8080/source/19722NM0010003> <http://karma.isi.edu/visualization/size> "6,350" .
+<http://localhost:8080/source/19722NM0010003> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 <http://localhost:8080/source/19722NM0010003> <http://karma.isi.edu/visualization/fillColor> "Bronze" .
 <http://localhost:8080/source/19722NM0010003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
 
 <http://localhost:8080/source/57173NM0120001> <http://karma.isi.edu/visualization/fillColor> "Gold" .
+<http://localhost:8080/source/57173NM0120001> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 <http://localhost:8080/source/57173NM0120001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
-<http://localhost:8080/source/57173NM0120001> <http://karma.isi.edu/visualization/size> "6,350" .
 
 <http://localhost:8080/source/57173NM0120002> <http://karma.isi.edu/visualization/fillColor> "Gold" .
-<http://localhost:8080/source/57173NM0120002> <http://karma.isi.edu/visualization/size> "6,350" .
 <http://localhost:8080/source/57173NM0120002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
+<http://localhost:8080/source/57173NM0120002> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
-<http://localhost:8080/source/57173NM0120003> <http://karma.isi.edu/visualization/size> "6,350" .
+<http://localhost:8080/source/57173NM0120003> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 <http://localhost:8080/source/57173NM0120003> <http://karma.isi.edu/visualization/fillColor> "Gold" .
 <http://localhost:8080/source/57173NM0120003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
 
 <http://localhost:8080/source/57173NM0130001> <http://karma.isi.edu/visualization/fillColor> "Silver" .
-<http://localhost:8080/source/57173NM0130001> <http://karma.isi.edu/visualization/size> "6,350" .
+<http://localhost:8080/source/57173NM0130001> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 <http://localhost:8080/source/57173NM0130001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
 
 <http://localhost:8080/source/57173NM0130005> <http://karma.isi.edu/visualization/fillColor> "Silver" .
 <http://localhost:8080/source/57173NM0130005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
-<http://localhost:8080/source/57173NM0130005> <http://karma.isi.edu/visualization/size> "6,350" .
+<http://localhost:8080/source/57173NM0130005> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
-<http://localhost:8080/source/57173NM0130009> <http://karma.isi.edu/visualization/size> "6,350" .
+<http://localhost:8080/source/57173NM0130009> <http://karma.isi.edu/visualization/size> "6,350"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 <http://localhost:8080/source/57173NM0130009> <http://karma.isi.edu/visualization/fillColor> "Silver" .
 <http://localhost:8080/source/57173NM0130009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://karma.isi.edu/visualization/Circle> .
 
