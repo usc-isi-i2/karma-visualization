@@ -68,3 +68,8 @@ k3:size rdf:type owl:DatatypeProperty ;
 	.
 
 
+k3:group rdf:type owl:DatatypeProperty ; 
+	rdfs:domain k3:Shape ;
+	rdfs:comment "A literal value to group  shapes." 
+	.
+

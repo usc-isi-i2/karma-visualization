@@ -1,0 +1,65 @@
+[
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Presbyterian Health Plan",
+    "@id": "<BERNALILLO/57173NM0120002>"
+},
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Presbyterian Health Plan",
+    "@id": "<BERNALILLO/57173NM0130009>"
+},
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Presbyterian Health Plan",
+    "@id": "<BERNALILLO/57173NM0120001>"
+},
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Bronze",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Molina Health Care of New Mexico, Inc.",
+    "@id": "<BERNALILLO/19722NM0010003>"
+},
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Molina Health Care of New Mexico, Inc.",
+    "@id": "<BERNALILLO/19722NM0010002>"
+},
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Presbyterian Health Plan",
+    "@id": "<BERNALILLO/57173NM0130005>"
+},
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Molina Health Care of New Mexico, Inc.",
+    "@id": "<BERNALILLO/19722NM0010001>"
+},
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Silver",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Presbyterian Health Plan",
+    "@id": "<BERNALILLO/57173NM0130001>"
+},
+{
+    "k3:size": 6350,
+    "k3:fillColor": "Gold",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "k3:group": "Presbyterian Health Plan",
+    "@id": "<BERNALILLO/57173NM0120003>"
+}
+]
