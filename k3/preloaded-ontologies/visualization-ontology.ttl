@@ -23,6 +23,23 @@ k3:Circle rdf:type owl:Class ;
 	rdfs:comment "Represents a D3 circle." 
 	.
 
+k3:Stick rdf:type owl:Class ; 
+	rdfs:subClassOf k3:Shape ;
+	rdfs:comment """Represents a a stick shape, 
+	a short vertical or horizontal line whose length conveys a size.
+	A stick shape may be preferrable to circles as it is diffcult for
+	people to judge the size of areas.""" 
+	.
+
+k3:VerticalStick rdf:type owl:Class ; 
+	rdfs:subClassOf k3:Stick ;
+	rdfs:comment "A vertical stick."
+	.
+
+k3:HorizontalStick rdf:type owl:Class ; 
+	rdfs:subClassOf k3:Stick ;
+	rdfs:comment "A vertical stick."
+	.
 
 k3:Line rdf:type owl:Class ;
 	rdfs:subClassOf k3:Shape ;
