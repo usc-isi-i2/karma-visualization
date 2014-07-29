@@ -46,6 +46,7 @@ function getQueryStr(str){
         var numcluster;
         var turn = true;
         var tfactor = 10;//scale factor
+        var havesize;
         
         //data for circles, links
         var datacircle = [];
@@ -138,18 +139,11 @@ function getQueryStr(str){
         var smartscale = function()
         {
             var area = 0;
-            if(havesize)
-            {
                 datacircle.forEach(function(d){
                     area += sizescale(d.size) * sizescale(d.size) * 3.14;
                     });
-            }
-            else
-                area = dsize*dsize*3.14 * datacircle.length;
             var t = Math.sqrt(w * h / area / tfactor);
             small *= t;
-            //if(small < 1)
-              //  small = 1;
             large *= t;
             sizescale.range([small, large]);
 
@@ -176,7 +170,7 @@ function getQueryStr(str){
         {
             return function(d)
             {
-                var cluster = d.cluster;
+                //alert(centerx[d.groupnum]-d.x);
                 d.x += (centerx[d.groupnum] - d.x) * 0.1 * alpha;
                 d.y += (centery[d.cluster] - d.y) * 0.1 * alpha;
             }
@@ -221,8 +215,8 @@ function getQueryStr(str){
                         n.type = data[i]["@type"];
                         if(data[i]["k3:size"] != null)
                         {
-                            n.size = Math.sqrt(data[i]["k3:size"]);
-                            if(sizeset.indexOf(n.size) == -1)
+                            n.size = data[i]["k3:size"];
+                            if(sizeset.indexOf(data[i]["k3:size"]) == -1)
                             {
                                 sizeset.push(n.size);
                                 n.sizeindex = sizeset.indexOf(n.size);
@@ -231,7 +225,10 @@ function getQueryStr(str){
                             n.sizeindex = sizeset.indexOf(n.size);
                             frequency[sizeset.indexOf(n.size)]++;
                         }
-                        
+                        else
+                        {
+                            n.size = dsize;
+                        }
                         if(data[i]["k3:fillColor"] != null)
                         {
                             n.color = data[i]["k3:fillColor"];
@@ -241,6 +238,10 @@ function getQueryStr(str){
                             }
                             n.cluster = colorset.indexOf(n.color);
                         }
+                        else
+                        {
+                            n.cluster = 0;
+                        }
                         if(data[i]["k3:group"] != null)
                         {
                             n.group = data[i]["k3:group"];
@@ -249,6 +250,11 @@ function getQueryStr(str){
                                 groupset.push(n.group);
                             }
                             n.groupnum = groupset.indexOf(n.group);
+                        }
+                        else
+                        {
+                            n.group = "";
+                            n.groupnum = 0;
                         }
                         if(data[i]["rdfs:label"] != null)
                         {
@@ -275,8 +281,8 @@ function getQueryStr(str){
                 {
                     //parse size here
                     for(var i = 0;i < sizeset.length;i++)
-                        sizeset[i] = Math.abs(sizeparse(sizeset[i]));
-                    datacircle.forEach(function(d){d.size = Math.abs(sizeparse(d.size));});
+                        sizeset[i] = Math.sqrt(Math.abs(sizeparse(sizeset[i])));
+                    datacircle.forEach(function(d){d.size = Math.sqrt(Math.abs(sizeparse(d.size)));});
                     if(typeof(sizeset[0]) == "number")
                     {
                         sizeset.sort(function(a,b){return a-b;});
@@ -301,6 +307,8 @@ function getQueryStr(str){
                     
                 }
                 smartscale();
+                if(groupset.length == 0)
+                    groupset.push("");
 
                 //center
                 centery = new Array(numcluster);
@@ -318,17 +326,7 @@ function getQueryStr(str){
                                  .enter()
                                  .append("circle")
                                  .attr("r", function(d){
-                                         if(havesize)
-                                         {
-                                            if(d.size == 0)
-                                                return d.size;
                                             return sizescale(d.size);
-                                         }
-                                         else
-                                         {
-                                            d.size = dsize;
-                                            return d.size;
-                                         }
                                          })
                                 .attr("fill", function(d){
                                          //return "red";
@@ -412,3 +410,4 @@ function getQueryStr(str){
                          .text(function(d){return d.substr(0,20)});
                     turn = true;
                     };
+
