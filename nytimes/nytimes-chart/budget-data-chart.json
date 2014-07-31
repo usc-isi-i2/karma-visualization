@@ -1,0 +1,3986 @@
+[
+{
+    "rdfs:label": "National Oceanic and Atmospheric Administration",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 118000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/407>"
+},
+{
+    "rdfs:label": "United States Court of Appeals for the Federal Circuit",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/459>"
+},
+{
+    "rdfs:label": "Occupational Safety and Health Administration",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/191>"
+},
+{
+    "rdfs:label": "Inter-American Foundation",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/138>"
+},
+{
+    "rdfs:label": "Health Resources and Services Administration",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 300000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/375>"
+},
+{
+    "rdfs:label": "Administration for Children and Families",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 309000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/1>"
+},
+{
+    "rdfs:label": "Rural Business_Cooperative Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 147000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/251>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 20000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/72>"
+},
+{
+    "rdfs:label": "Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/478>"
+},
+{
+    "rdfs:label": "Includes: FOASI, Interest Received by Trust Funds",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 7083000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/498>"
+},
+{
+    "rdfs:label": "Office of Vocational and Adult Education",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/228>"
+},
+{
+    "rdfs:label": "Food Safety and Inspection Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/367>"
+},
+{
+    "rdfs:label": "Council on Environmental Quality and Office of Environmental Quality",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/49>"
+},
+{
+    "rdfs:label": "District of Columbia General and Special Payments",
+    "k3:x-axis": "District of Columbia",
+    "k3:y-axis": 11000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/486>"
+},
+{
+    "rdfs:label": "Armed Forces Retirement Home",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/300>"
+},
+{
+    "rdfs:label": "Includes: Spectrum Auction Receipts, Public Safety Trust Fund",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 1206000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/318>"
+},
+{
+    "rdfs:label": "Courts of Appeals, District Courts, and other Judicial Services",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 175000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/51>"
+},
+{
+    "rdfs:label": "Social Security Administration",
+    "k3:x-axis": "Social Security Administration",
+    "k3:y-axis": 336000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/261>"
+},
+{
+    "rdfs:label": "Architect of the Capitol",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/299>"
+},
+{
+    "rdfs:label": "FSLIC Resolution",
+    "k3:x-axis": "Federal Deposit Insurance Corporation",
+    "k3:y-axis": 356000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/370>"
+},
+{
+    "rdfs:label": "Japan-United States Friendship Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/387>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/335>"
+},
+{
+    "rdfs:label": "Office of Civil Rights",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 42000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/195>"
+},
+{
+    "rdfs:label": "Military Personnel",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 3940000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/156>"
+},
+{
+    "rdfs:label": "Includes: Federal Contributions, FSMI Fund",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 53127000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/322>"
+},
+{
+    "rdfs:label": "International Trade Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/145>"
+},
+{
+    "rdfs:label": "General Activities",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 38000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/121>"
+},
+{
+    "rdfs:label": "Federal Mine Safety and Health Review Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/108>"
+},
+{
+    "rdfs:label": "National Institutes of Health",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/173>"
+},
+{
+    "rdfs:label": "Electric Reliability Organization",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/346>"
+},
+{
+    "rdfs:label": "Office of Elementary and Secondary Education",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 1520000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/198>"
+},
+{
+    "rdfs:label": "Operation and Maintenance",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 16000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/423>"
+},
+{
+    "rdfs:label": "Office of Inspector General",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/206>"
+},
+{
+    "rdfs:label": "Includes: Earnings on Investments, Nuclear Waste Disposal Fund",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 128000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/476>"
+},
+{
+    "rdfs:label": "Departmental Administration",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 1000000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/333>"
+},
+{
+    "rdfs:label": "Includes: Nuclear Waste Disposal Fund",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 1040000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/321>"
+},
+{
+    "rdfs:label": "National Indian Gaming Commission",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/402>"
+},
+{
+    "rdfs:label": "Marine Mammal Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/152>"
+},
+{
+    "rdfs:label": "United States Court of International Trade",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/461>"
+},
+{
+    "rdfs:label": "Includes: Pipeline Safety Fund",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 76000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/63>"
+},
+{
+    "rdfs:label": "United States Geological Survey",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/464>"
+},
+{
+    "rdfs:label": "Office of Compliance",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/197>"
+},
+{
+    "rdfs:label": "Bureau of Indian Affairs and Bureau of Indian Education",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 105000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/304>"
+},
+{
+    "rdfs:label": "Broadcasting Board of Governors",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 31000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/20>"
+},
+{
+    "rdfs:label": "Council of Economic Advisers",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/48>"
+},
+{
+    "rdfs:label": "Includes: Central Valley Project Restoration Fund, Revenue",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 13000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/62>"
+},
+{
+    "rdfs:label": "Administration of Foreign Affairs",
+    "k3:x-axis": "State",
+    "k3:y-axis": 590000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/2>"
+},
+{
+    "rdfs:label": "Pipeline and Hazardous Materials Safety Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/429>"
+},
+{
+    "rdfs:label": "Federal Bureau of Investigation",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 38000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/98>"
+},
+{
+    "rdfs:label": "Other",
+    "k3:x-axis": "State",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/425>"
+},
+{
+    "rdfs:label": "United States Geological Survey",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 34000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/277>"
+},
+{
+    "rdfs:label": "Includes: Receipts from Mineral Leasing, Public Lands",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 1735000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/328>"
+},
+{
+    "rdfs:label": "Delta Regional Authority",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/54>"
+},
+{
+    "rdfs:label": "Surface Transportation Board",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/266>"
+},
+{
+    "rdfs:label": "Interest on the Public Debt",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 21705000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/489>"
+},
+{
+    "rdfs:label": "Department-Wide Programs",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 254000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/65>"
+},
+{
+    "rdfs:label": "National Security Division",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/183>"
+},
+{
+    "rdfs:label": "Northern Border Regional Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/188>"
+},
+{
+    "rdfs:label": "Farm Service Agency",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 1208000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/352>"
+},
+{
+    "rdfs:label": "Includes: Recoveries, Hazardous Substance Superfund",
+    "k3:x-axis": "Environmental Protection Agency",
+    "k3:y-axis": 69000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/349>"
+},
+{
+    "rdfs:label": "Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/372>"
+},
+{
+    "rdfs:label": "Revolving and Management Funds",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 450000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/249>"
+},
+{
+    "rdfs:label": "National Science Foundation",
+    "k3:x-axis": "National Science Foundation",
+    "k3:y-axis": 340000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/181>"
+},
+{
+    "rdfs:label": "Office of Special Education and Rehabilitative Services",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 109000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/418>"
+},
+{
+    "rdfs:label": "Rural Utilities Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 10000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/254>"
+},
+{
+    "rdfs:label": "Program Support Center",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 39000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/432>"
+},
+{
+    "rdfs:label": "United States Parole Commission",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/281>"
+},
+{
+    "rdfs:label": "United States Interagency Council on Homelessness",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/280>"
+},
+{
+    "rdfs:label": "Merit Systems Protection Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/154>"
+},
+{
+    "rdfs:label": "House of Representatives",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/129>"
+},
+{
+    "rdfs:label": "Energy Programs",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 7102000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/348>"
+},
+{
+    "rdfs:label": "Administration for Children and Families",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 478000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/287>"
+},
+{
+    "rdfs:label": "Defense--Military Programs",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 82000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/319>"
+},
+{
+    "rdfs:label": "United States Sentencing Commission",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/283>"
+},
+{
+    "rdfs:label": "Includes: Federal Contributions, Foreign Service Retirement and Disability Fund",
+    "k3:x-axis": "State",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/327>"
+},
+{
+    "rdfs:label": "Legal Activities and U.S. Marshals",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 1299000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/390>"
+},
+{
+    "rdfs:label": "Office of the Special Trustee for American Indians",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 15000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/421>"
+},
+{
+    "rdfs:label": "Forest Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 124000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/369>"
+},
+{
+    "rdfs:label": "Includes: Interest on Investments, Foreign Service National Defined Contributions Retirement Fund",
+    "k3:x-axis": "State",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/481>"
+},
+{
+    "rdfs:label": "Science and Technology",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 163000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/256>"
+},
+{
+    "rdfs:label": "Indian Health Service",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 117000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/132>"
+},
+{
+    "rdfs:label": "Courts of Appeals, District Courts, and other Judicial Services",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 55000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/315>"
+},
+{
+    "rdfs:label": "Rural Housing Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 808000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/441>"
+},
+{
+    "rdfs:label": "Senate",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/445>"
+},
+{
+    "rdfs:label": "Includes: Federal Direct Student Loan Program, Negative Subsidies",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 10282000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/320>"
+},
+{
+    "rdfs:label": "Library of Congress",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 16000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/150>"
+},
+{
+    "rdfs:label": "National Protection and Programs Directorate",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/179>"
+},
+{
+    "rdfs:label": "Includes: Export-Import Bank Loans, Negative Subsidies",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 306000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/92>"
+},
+{
+    "rdfs:label": "Rural Housing Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 35000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/253>"
+},
+{
+    "rdfs:label": "Small Business Administration",
+    "k3:x-axis": "Small Business Administration",
+    "k3:y-axis": 199000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/259>"
+},
+{
+    "rdfs:label": "Office of Government Ethics",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/202>"
+},
+{
+    "rdfs:label": "Standard Setting Body",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/448>"
+},
+{
+    "rdfs:label": "The White House",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/267>"
+},
+{
+    "rdfs:label": "Customs and Border Protection",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 208000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/52>"
+},
+{
+    "rdfs:label": "Federal Judicial Center",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/103>"
+},
+{
+    "rdfs:label": "Patient-Centered Outcomes Research Trust Fund",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 188000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/427>"
+},
+{
+    "rdfs:label": "National Capital Planning Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/166>"
+},
+{
+    "rdfs:label": "Federal Prison System",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/361>"
+},
+{
+    "rdfs:label": "Office of Surface Mining Reclamation and Enforcement",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 9000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/218>"
+},
+{
+    "rdfs:label": "Public Company Accounting Oversight Board",
+    "k3:x-axis": "Public Company Accounting Oversight Board",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/244>"
+},
+{
+    "rdfs:label": "Includes: FHA-general and Special Risk, Negative Subsidies",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 191000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/60>"
+},
+{
+    "rdfs:label": "Intelligence Community Management Account",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 8000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/137>"
+},
+{
+    "rdfs:label": "United States Coast Guard",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 595000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/272>"
+},
+{
+    "rdfs:label": "Trade and Development Agency",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 8000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/268>"
+},
+{
+    "rdfs:label": "Federal Railroad Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 68000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/111>"
+},
+{
+    "rdfs:label": "State Justice Institute",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/263>"
+},
+{
+    "rdfs:label": "International Security Assistance",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 62000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/143>"
+},
+{
+    "rdfs:label": "Includes: Interest, Investor Protection Fund",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/496>"
+},
+{
+    "rdfs:label": "Library of Congress",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/392>"
+},
+{
+    "rdfs:label": "National Highway Traffic Safety Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 181000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/401>"
+},
+{
+    "rdfs:label": "Congressional Budget Office",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/43>"
+},
+{
+    "rdfs:label": "Office of Federal Student Aid",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 13963000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/414>"
+},
+{
+    "rdfs:label": "National Oceanic and Atmospheric Administration",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 46000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/177>"
+},
+{
+    "rdfs:label": "Includes: Interest and Dividends on Non-Federal Securities, National Railroad Retirement Investment Trust",
+    "k3:x-axis": "Railroad Retirement Board",
+    "k3:y-axis": 760000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/494>"
+},
+{
+    "rdfs:label": "International Commissions",
+    "k3:x-axis": "State",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/141>"
+},
+{
+    "rdfs:label": "Legislative Branch Boards and Commissions",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/391>"
+},
+{
+    "rdfs:label": "James Madison Memorial Fellowship Foundation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/386>"
+},
+{
+    "rdfs:label": "Includes: Earnings on Federal Investments, Universal Service Fund",
+    "k3:x-axis": "Federal Communications Commission",
+    "k3:y-axis": 27000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/487>"
+},
+{
+    "rdfs:label": "Bureau of Reclamation",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 34000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/27>"
+},
+{
+    "rdfs:label": "Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts",
+    "k3:x-axis": "National Aeronautics and Space Administration",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/398>"
+},
+{
+    "rdfs:label": "Legal Services Corporation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 54000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/148>"
+},
+{
+    "rdfs:label": "Benefits Programs",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 9489000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/302>"
+},
+{
+    "rdfs:label": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 11000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/21>"
+},
+{
+    "rdfs:label": "Retiree Health Care",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 401000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/495>"
+},
+{
+    "rdfs:label": "Administration on Aging",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/289>"
+},
+{
+    "rdfs:label": "Office of Science and Technology Policy",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/215>"
+},
+{
+    "rdfs:label": "Office of the Inspector General",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 9000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/221>"
+},
+{
+    "rdfs:label": "Overseas Private Investment Corporation",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 52000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/426>"
+},
+{
+    "rdfs:label": "Educational Benefits",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 16000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/345>"
+},
+{
+    "rdfs:label": "Government National Mortgage Association",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 140000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/373>"
+},
+{
+    "rdfs:label": "Multilateral Assistance",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 215000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/161>"
+},
+{
+    "rdfs:label": "Includes: Export-Import Bank of the United States Liquidating Account",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 102000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/350>"
+},
+{
+    "rdfs:label": "Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 2236000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/324>"
+},
+{
+    "rdfs:label": "Nuclear Waste Technical Review Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/190>"
+},
+{
+    "rdfs:label": "Health Resources and Services Administration",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 141000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/128>"
+},
+{
+    "rdfs:label": "Housing Programs",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 3917000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/130>"
+},
+{
+    "rdfs:label": "Bureau of Land Management",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/25>"
+},
+{
+    "rdfs:label": "Office of Federal Contract Compliance Programs",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/200>"
+},
+{
+    "rdfs:label": "Financial Crimes Enforcement Network",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 9000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/114>"
+},
+{
+    "rdfs:label": "Power Marketing Administration",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/238>"
+},
+{
+    "rdfs:label": "Foreign Agricultural Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 59000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/119>"
+},
+{
+    "rdfs:label": "Advisory Council on Historic Preservation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/6>"
+},
+{
+    "rdfs:label": "Includes: Postal Service Fund",
+    "k3:x-axis": "Postal Service",
+    "k3:y-axis": 1742000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/430>"
+},
+{
+    "rdfs:label": "Bureau of the Census",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 83000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/29>"
+},
+{
+    "rdfs:label": "Rural Business_Cooperative Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/440>"
+},
+{
+    "rdfs:label": "Employment and Training Administration",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 1271000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/86>"
+},
+{
+    "rdfs:label": "Barry Goldwater Scholarship and Excellence in Education Foundation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/301>"
+},
+{
+    "rdfs:label": "American Battle Monuments Commission",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/12>"
+},
+{
+    "rdfs:label": "District of Columbia Courts",
+    "k3:x-axis": "District of Columbia",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/341>"
+},
+{
+    "rdfs:label": "Millennium Challenge Corporation",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/157>"
+},
+{
+    "rdfs:label": "Federal Drug Control Programs",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 15000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/99>"
+},
+{
+    "rdfs:label": "Public Company Accounting Oversight Board",
+    "k3:x-axis": "Public Company Accounting Oversight Board",
+    "k3:y-axis": 8000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/434>"
+},
+{
+    "rdfs:label": "Office of Administration",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/193>"
+},
+{
+    "rdfs:label": "Wage and Hour Division",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 11000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/286>"
+},
+{
+    "rdfs:label": "Includes: Temporary Corporate Credit Union Stabilization Fund",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2700000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/400>"
+},
+{
+    "rdfs:label": "International Monetary Programs",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 17000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/383>"
+},
+{
+    "rdfs:label": "Bureau of Reclamation",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 44000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/306>"
+},
+{
+    "rdfs:label": "Defense--Military Programs",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/474>"
+},
+{
+    "rdfs:label": "Benefits Programs",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/18>"
+},
+{
+    "rdfs:label": "Harry S Truman Scholarship Foundation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/374>"
+},
+{
+    "rdfs:label": "Joint Items",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/146>"
+},
+{
+    "rdfs:label": "Federal Financial Institutions Examination Council Appraisal Subcommittee",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/356>"
+},
+{
+    "rdfs:label": "Includes: Rivers and Harbors Contributed Funds",
+    "k3:x-axis": "Corps of Engineers--Civil Works",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/314>"
+},
+{
+    "rdfs:label": "Federal Emergency Management Agency",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 637000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/101>"
+},
+{
+    "rdfs:label": "Wage and Hour Division",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/469>"
+},
+{
+    "rdfs:label": "Military Sales Program",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 6551000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/396>"
+},
+{
+    "rdfs:label": "United States Court of Appeals for the Federal Circuit",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/273>"
+},
+{
+    "rdfs:label": "District of Columbia Courts",
+    "k3:x-axis": "District of Columbia",
+    "k3:y-axis": 18000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/77>"
+},
+{
+    "rdfs:label": "Includes: Agency Contributions, Civil Service Retirement and Disability Fund",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2614000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/456>"
+},
+{
+    "rdfs:label": "National Labor Relations Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 15000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/174>"
+},
+{
+    "rdfs:label": "Military Retirement",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 2074000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/395>"
+},
+{
+    "rdfs:label": "Procurement",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 12005000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/241>"
+},
+{
+    "rdfs:label": "Food and Nutrition Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 42000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/117>"
+},
+{
+    "rdfs:label": "Operation and Maintenance",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 11244000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/230>"
+},
+{
+    "rdfs:label": "Citizenship and Immigration Services",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 105000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/311>"
+},
+{
+    "rdfs:label": "Federal Housing Finance Agency",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 16000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/358>"
+},
+{
+    "rdfs:label": "National Credit Union Administration",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/168>"
+},
+{
+    "rdfs:label": "District of Columbia General and Special Payments",
+    "k3:x-axis": "District of Columbia",
+    "k3:y-axis": 26000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/78>"
+},
+{
+    "rdfs:label": "Natural Resources Conservation Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 782000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/186>"
+},
+{
+    "rdfs:label": "Includes: Fisheries Finance, Negative Subsidies",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/57>"
+},
+{
+    "rdfs:label": "National Security Council and Homeland Security Council",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/182>"
+},
+{
+    "rdfs:label": "Agricultural Marketing Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 100000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/293>"
+},
+{
+    "rdfs:label": "Federal Motor Carrier Safety Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/109>"
+},
+{
+    "rdfs:label": "National Institute of Food and Agriculture",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 40000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/171>"
+},
+{
+    "rdfs:label": "Office of Communications",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/196>"
+},
+{
+    "rdfs:label": "Agricultural Research Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 8000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/10>"
+},
+{
+    "rdfs:label": "Federal Labor Relations Authority",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/104>"
+},
+{
+    "rdfs:label": "Office of Special Education and Rehabilitative Services",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 197000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/217>"
+},
+{
+    "rdfs:label": "Office of Postsecondary Education",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 12000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/417>"
+},
+{
+    "rdfs:label": "Deposit Insurance",
+    "k3:x-axis": "Federal Deposit Insurance Corporation",
+    "k3:y-axis": 35000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/76>"
+},
+{
+    "rdfs:label": "Risk Management Agency",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 5803000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/439>"
+},
+{
+    "rdfs:label": "International Organizations and Conferences",
+    "k3:x-axis": "State",
+    "k3:y-axis": 289000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/142>"
+},
+{
+    "rdfs:label": "Departmental Administration",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 443000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/67>"
+},
+{
+    "rdfs:label": "Armed Forces Retirement Home",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 15000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/17>"
+},
+{
+    "rdfs:label": "National Telecommunications and Information Administration",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 1270000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/410>"
+},
+{
+    "rdfs:label": "Agency for International Development",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/470>"
+},
+{
+    "rdfs:label": "Includes: Contributions from Military Personnel, Veteran's Educational Assistance Act of 1984",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 173000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/331>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 59800000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/336>"
+},
+{
+    "rdfs:label": "Office of Personnel Management",
+    "k3:x-axis": "Office of Personnel Management",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/213>"
+},
+{
+    "rdfs:label": "Drug Enforcement Administration",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 30000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/343>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 25000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/68>"
+},
+{
+    "rdfs:label": "Federal Communications Commission",
+    "k3:x-axis": "Federal Communications Commission",
+    "k3:y-axis": 300000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/354>"
+},
+{
+    "rdfs:label": "Office of the Solicitor",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/225>"
+},
+{
+    "rdfs:label": "Interagency Law Enforcement",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/139>"
+},
+{
+    "rdfs:label": "Departmental Offices",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 831000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/75>"
+},
+{
+    "rdfs:label": "United States Fish and Wildlife Service",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 42000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/463>"
+},
+{
+    "rdfs:label": "Real Property Activities",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 136000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/246>"
+},
+{
+    "rdfs:label": "International Trade Administration",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 62000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/144>"
+},
+{
+    "rdfs:label": "Other Commissions and Boards",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/232>"
+},
+{
+    "rdfs:label": "Community Planning and Development",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 14008000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/312>"
+},
+{
+    "rdfs:label": "Office of English Language Acquisition",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/199>"
+},
+{
+    "rdfs:label": "Botanic Garden",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/19>"
+},
+{
+    "rdfs:label": "Affordable Housing Program",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/290>"
+},
+{
+    "rdfs:label": "Includes: Environmental Dispute Resolution Fund",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/397>"
+},
+{
+    "rdfs:label": "Family Housing",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 32000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/94>"
+},
+{
+    "rdfs:label": "United States Institute of Peace",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/279>"
+},
+{
+    "rdfs:label": "National Council on Disability",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/167>"
+},
+{
+    "rdfs:label": "Includes: Fees for Bankruptcy Oversight, U.S. Trustees System",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/61>"
+},
+{
+    "rdfs:label": "Senate",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 42000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/258>"
+},
+{
+    "rdfs:label": "Central Intelligence Agency",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/310>"
+},
+{
+    "rdfs:label": "Departmental Offices",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 20000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/485>"
+},
+{
+    "rdfs:label": "Privacy and Civil Liberties Oversight Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/240>"
+},
+{
+    "rdfs:label": "Housing Programs",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 2965000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/377>"
+},
+{
+    "rdfs:label": "Federal Trade Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 19000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/112>"
+},
+{
+    "rdfs:label": "Saint Lawrence Seaway Development Corporation",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/255>"
+},
+{
+    "rdfs:label": "Includes: Earnings on Investments, Abandoned Mine Reclamation Fund",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/482>"
+},
+{
+    "rdfs:label": "Centers for Disease Control and Prevention",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 664000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/32>"
+},
+{
+    "rdfs:label": "Architect of the Capitol",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 103000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/15>"
+},
+{
+    "rdfs:label": "Securities Investor Protection Corporation",
+    "k3:x-axis": "Securities Investor Protection Corporation",
+    "k3:y-axis": 120000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/444>"
+},
+{
+    "rdfs:label": "Rural Utilities Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 498000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/442>"
+},
+{
+    "rdfs:label": "Immigration and Customs Enforcement",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/378>"
+},
+{
+    "rdfs:label": "Food and Drug Administration",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/365>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 86000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/71>"
+},
+{
+    "rdfs:label": "Presidio Trust",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 12000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/239>"
+},
+{
+    "rdfs:label": "Substance Abuse and Mental Health Services Administration",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 195000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/264>"
+},
+{
+    "rdfs:label": "Agricultural Research Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/294>"
+},
+{
+    "rdfs:label": "Administration of Foreign Affairs",
+    "k3:x-axis": "State",
+    "k3:y-axis": 28000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/288>"
+},
+{
+    "rdfs:label": "United States Fish and Wildlife Service",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 129000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/276>"
+},
+{
+    "rdfs:label": "Maritime Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 30000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/153>"
+},
+{
+    "rdfs:label": "Centers for Medicare and Medicaid Services",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 91233000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/309>"
+},
+{
+    "rdfs:label": "Centers for Disease Control and Prevention",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 95000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/308>"
+},
+{
+    "rdfs:label": "Food and Drug Administration",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 11000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/116>"
+},
+{
+    "rdfs:label": "Legal Activities and U.S. Marshals",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 1065000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/147>"
+},
+{
+    "rdfs:label": "Office of Inspector General",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/205>"
+},
+{
+    "rdfs:label": "Office of Postsecondary Education",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 1082000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/214>"
+},
+{
+    "rdfs:label": "Includes: United States Enrichment Corporation Fund",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/462>"
+},
+{
+    "rdfs:label": "Departmental Offices",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 28904000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/339>"
+},
+{
+    "rdfs:label": "Legislative Branch Boards and Commissions",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 36000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/149>"
+},
+{
+    "rdfs:label": "Special Assistance to the President and the Official Residence of the Vice President",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/262>"
+},
+{
+    "rdfs:label": "Fiscal Service",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 5815000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/364>"
+},
+{
+    "rdfs:label": "National Endowment for the Arts",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 8000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/169>"
+},
+{
+    "rdfs:label": "Civilian Property Realignment Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 57000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/37>"
+},
+{
+    "rdfs:label": "Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/484>"
+},
+{
+    "rdfs:label": "Employment and Training Administration",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 76703000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/347>"
+},
+{
+    "rdfs:label": "Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",
+    "k3:x-axis": "Corps of Engineers--Civil Works",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/471>"
+},
+{
+    "rdfs:label": "Overseas Private Investment Corporation",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/233>"
+},
+{
+    "rdfs:label": "Policy Development and Research",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/236>"
+},
+{
+    "rdfs:label": "Election Assistance Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/84>"
+},
+{
+    "rdfs:label": "Research, Development, Test, and Evaluation",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 2248000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/248>"
+},
+{
+    "rdfs:label": "General Activities",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/371>"
+},
+{
+    "rdfs:label": "Supply and Technology Activities",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/450>"
+},
+{
+    "rdfs:label": "General Administration",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 1672000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/122>"
+},
+{
+    "rdfs:label": "Orderly Liquidation",
+    "k3:x-axis": "Federal Deposit Insurance Corporation",
+    "k3:y-axis": 888000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/424>"
+},
+{
+    "rdfs:label": "Risk Management Agency",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 75000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/250>"
+},
+{
+    "rdfs:label": "Selective Service System",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/257>"
+},
+{
+    "rdfs:label": "District of Columbia General and Special Payments",
+    "k3:x-axis": "District of Columbia",
+    "k3:y-axis": 9000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/342>"
+},
+{
+    "rdfs:label": "Smithsonian Institution",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 59000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/260>"
+},
+{
+    "rdfs:label": "Office of the Secretary",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/223>"
+},
+{
+    "rdfs:label": "Agricultural Marketing Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/9>"
+},
+{
+    "rdfs:label": "Foreign Agricultural Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 41000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/368>"
+},
+{
+    "rdfs:label": "Office of Justice Programs",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 4793000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/415>"
+},
+{
+    "rdfs:label": "Office of Workers' Compensation Programs",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/229>"
+},
+{
+    "rdfs:label": "Bureau of Land Management",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 30000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/305>"
+},
+{
+    "rdfs:label": "Departmental Management and Operations",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/73>"
+},
+{
+    "rdfs:label": "National Park Service",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 32000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/178>"
+},
+{
+    "rdfs:label": "National Institute of Standards and Technology",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 99000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/172>"
+},
+{
+    "rdfs:label": "Internal Revenue Service",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 4176000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/382>"
+},
+{
+    "rdfs:label": "United States Tax Court",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/284>"
+},
+{
+    "rdfs:label": "Occupational Safety and Health Review Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/192>"
+},
+{
+    "rdfs:label": "Office of Labor Management Standards",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/208>"
+},
+{
+    "rdfs:label": "Veterans Health Administration",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/467>"
+},
+{
+    "rdfs:label": "Includes: Disaster Loan Fund Liquidating Account",
+    "k3:x-axis": "Small Business Administration",
+    "k3:y-axis": 1803000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/446>"
+},
+{
+    "rdfs:label": "Fiscal Service",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 3441000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/488>"
+},
+{
+    "rdfs:label": "Maritime Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 68000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/393>"
+},
+{
+    "rdfs:label": "Includes: Interest Earned, Environmental Improvement and Restoration Fund",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/473>"
+},
+{
+    "rdfs:label": "Tennessee Valley Authority",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 26000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/453>"
+},
+{
+    "rdfs:label": "Corporation for Public Broadcasting",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/46>"
+},
+{
+    "rdfs:label": "United States Holocaust Memorial Museum",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/278>"
+},
+{
+    "rdfs:label": "Commodity Futures Trading Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 103000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/41>"
+},
+{
+    "rdfs:label": "National Institute of Food and Agriculture",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 129000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/404>"
+},
+{
+    "rdfs:label": "Judicial Retirement Funds",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 44000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/389>"
+},
+{
+    "rdfs:label": "Economic and Statistical Analysis",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/81>"
+},
+{
+    "rdfs:label": "Postal Service",
+    "k3:x-axis": "Postal Service",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/237>"
+},
+{
+    "rdfs:label": "Office of National Drug Control Policy",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/211>"
+},
+{
+    "rdfs:label": "Institute of American Indian and Alaska Native Culture and Arts Development",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/133>"
+},
+{
+    "rdfs:label": "Supreme Court of the United States",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/265>"
+},
+{
+    "rdfs:label": "Institute of Museum and Library Services",
+    "k3:x-axis": "Institute of Museum and Library Services",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/135>"
+},
+{
+    "rdfs:label": "African Development Foundation",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/7>"
+},
+{
+    "rdfs:label": "Government Accountability Office",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 15000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/123>"
+},
+{
+    "rdfs:label": "Military Construction",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 1795000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/155>"
+},
+{
+    "rdfs:label": "National Institutes of Health",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/406>"
+},
+{
+    "rdfs:label": "Federal Law Enforcement Training Center",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 13000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/105>"
+},
+{
+    "rdfs:label": "Agency for International Development",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 806000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/292>"
+},
+{
+    "rdfs:label": "Grain Inspection, Packers and Stockyards Administration",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/126>"
+},
+{
+    "rdfs:label": "National Appeals Division",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/164>"
+},
+{
+    "rdfs:label": "Library of Congress",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/491>"
+},
+{
+    "rdfs:label": "Morris K. Udall and Stewart L. Udall Foundation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/160>"
+},
+{
+    "rdfs:label": "Customs and Border Protection",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 50000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/316>"
+},
+{
+    "rdfs:label": "Natural Resources Conservation Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 151000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/411>"
+},
+{
+    "rdfs:label": "Public and Indian Housing Programs",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 1138000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/243>"
+},
+{
+    "rdfs:label": "Bureau of Industry and Security",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/23>"
+},
+{
+    "rdfs:label": "Food and Nutrition Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 1254000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/366>"
+},
+{
+    "rdfs:label": "Economic Development Administration",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 238000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/82>"
+},
+{
+    "rdfs:label": "Departmental Offices",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 1794000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/338>"
+},
+{
+    "rdfs:label": "Office of Surface Mining Reclamation and Enforcement",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 202000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/419>"
+},
+{
+    "rdfs:label": "Labor",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 29000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/480>"
+},
+{
+    "rdfs:label": "Office of the Secretary",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 50000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/420>"
+},
+{
+    "rdfs:label": "Nuclear Regulatory Commission",
+    "k3:x-axis": "Nuclear Regulatory Commission",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/189>"
+},
+{
+    "rdfs:label": "National Railroad Passenger Corporation Office of Inspector General",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/180>"
+},
+{
+    "rdfs:label": "United States Court of International Trade",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/275>"
+},
+{
+    "rdfs:label": "Peace Corps",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/428>"
+},
+{
+    "rdfs:label": "Includes: Diversion Control Fee Account, DEA",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 30000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/325>"
+},
+{
+    "rdfs:label": "Employee Benefits Security Administration",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/85>"
+},
+{
+    "rdfs:label": "Indian Health Service",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/379>"
+},
+{
+    "rdfs:label": "Economic Research Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/83>"
+},
+{
+    "rdfs:label": "Includes: Earnings on Investments, Postal Service Retiree Health Benefits Fund",
+    "k3:x-axis": "Office of Personnel Management",
+    "k3:y-axis": 17000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/493>"
+},
+{
+    "rdfs:label": "Centers for Medicare and Medicaid Services",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 5758000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/33>"
+},
+{
+    "rdfs:label": "Denali Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 11000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/55>"
+},
+{
+    "rdfs:label": "Includes: Third Party Collections, MCCF",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 199000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/64>"
+},
+{
+    "rdfs:label": "Administrative Conference of the United States",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/4>"
+},
+{
+    "rdfs:label": "United States Tax Court",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/466>"
+},
+{
+    "rdfs:label": "Public and Indian Housing Programs",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 20000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/433>"
+},
+{
+    "rdfs:label": "Consumer Product Safety Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 7000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/44>"
+},
+{
+    "rdfs:label": "Includes: Proceeds, GSE Equity Related Transactions",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 10175000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/329>"
+},
+{
+    "rdfs:label": "Transportation Security Administration",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 319000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/269>"
+},
+{
+    "rdfs:label": "Real Property Activities",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/437>"
+},
+{
+    "rdfs:label": "Federal Prison System",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 248000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/110>"
+},
+{
+    "rdfs:label": "Unanticipated Needs",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/271>"
+},
+{
+    "rdfs:label": "Recovery Act Accountability and Transparency Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/247>"
+},
+{
+    "rdfs:label": "Telecommunications Development Fund",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/452>"
+},
+{
+    "rdfs:label": "Includes: General Fund Payment - Defense, Decontamination and Decommissioning Fund",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 463000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/58>"
+},
+{
+    "rdfs:label": "United States Court of Appeals for Veterans Claims",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/460>"
+},
+{
+    "rdfs:label": "Federal Railroad Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 1111000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/362>"
+},
+{
+    "rdfs:label": "Bureau of Labor Statistics",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 9000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/24>"
+},
+{
+    "rdfs:label": "Committee for Purchase from People who are Blind or Severely Disabled, activities",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/40>"
+},
+{
+    "rdfs:label": "Corps of Engineers--Civil Works",
+    "k3:x-axis": "Corps of Engineers--Civil Works",
+    "k3:y-axis": 1994000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/47>"
+},
+{
+    "rdfs:label": "United Mine Workers of America Benefit Funds",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/457>"
+},
+{
+    "rdfs:label": "National Nuclear Security Administration",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 536000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/176>"
+},
+{
+    "rdfs:label": "Department-Wide Programs",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/332>"
+},
+{
+    "rdfs:label": "National Archives and Records Administration",
+    "k3:x-axis": "National Archives and Records Administration",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/399>"
+},
+{
+    "rdfs:label": "Office of Chief Economist",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/413>"
+},
+{
+    "rdfs:label": "Corporation for Travel Promotion",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/313>"
+},
+{
+    "rdfs:label": "National Infrastructure Bank",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 10000000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/403>"
+},
+{
+    "rdfs:label": "Office of Lead Hazard Control and Healthy Homes",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/209>"
+},
+{
+    "rdfs:label": "Chemical Safety and Hazard Investigation Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/35>"
+},
+{
+    "rdfs:label": "Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/468>"
+},
+{
+    "rdfs:label": "Capitol Police",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 34000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/30>"
+},
+{
+    "rdfs:label": "Administrative Office of the United States Courts",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/5>"
+},
+{
+    "rdfs:label": "Environmental and Other Defense Activities",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 382000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/88>"
+},
+{
+    "rdfs:label": "Alcohol and Tobacco Tax and Trade Bureau",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/11>"
+},
+{
+    "rdfs:label": "Deposit Insurance",
+    "k3:x-axis": "Federal Deposit Insurance Corporation",
+    "k3:y-axis": 45000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/340>"
+},
+{
+    "rdfs:label": "Office of the United States Trade Representative",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/227>"
+},
+{
+    "rdfs:label": "Office of the Special Trustee for American Indians",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/226>"
+},
+{
+    "rdfs:label": "National Agricultural Statistics Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 20000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/163>"
+},
+{
+    "rdfs:label": "Office of the Inspector General",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/222>"
+},
+{
+    "rdfs:label": "National Science Foundation",
+    "k3:x-axis": "National Science Foundation",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/409>"
+},
+{
+    "rdfs:label": "Bureau of Consumer Financial Protection",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 108000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/303>"
+},
+{
+    "rdfs:label": "Office of Chief Economist",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/194>"
+},
+{
+    "rdfs:label": "Bureau of Ocean Energy Management",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/26>"
+},
+{
+    "rdfs:label": "Includes: Deposits of Fees, Inspection and Grading of Farm Products, AMS",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 1235000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/317>"
+},
+{
+    "rdfs:label": "Cemeterial Expenses",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/31>"
+},
+{
+    "rdfs:label": "Office of Special Counsel",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/216>"
+},
+{
+    "rdfs:label": "Federal Highway Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 41143000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/357>"
+},
+{
+    "rdfs:label": "Management and Administration",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 61000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/151>"
+},
+{
+    "rdfs:label": "Fiscal Service",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 24000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/115>"
+},
+{
+    "rdfs:label": "Farm Service Agency",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 136000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/95>"
+},
+{
+    "rdfs:label": "National Park Service",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 33000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/408>"
+},
+{
+    "rdfs:label": "Neighborhood Reinvestment Corporation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/187>"
+},
+{
+    "rdfs:label": "Mine Safety and Health Administration",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/158>"
+},
+{
+    "rdfs:label": "Allowances",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 4988000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/296>"
+},
+{
+    "rdfs:label": "Office of Federal Student Aid",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 236000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/201>"
+},
+{
+    "rdfs:label": "Agency for International Development",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 628000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/8>"
+},
+{
+    "rdfs:label": "Court Services and Offender Supervision Agency for the District of Columbia",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/50>"
+},
+{
+    "rdfs:label": "Fair Housing and Equal Opportunity",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/93>"
+},
+{
+    "rdfs:label": "Includes: Earnings on Investments, SIPC",
+    "k3:x-axis": "Securities Investor Protection Corporation",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/497>"
+},
+{
+    "rdfs:label": "Defense Nuclear Facilities Safety Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/53>"
+},
+{
+    "rdfs:label": "Institute of Education Sciences",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 28000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/134>"
+},
+{
+    "rdfs:label": "Railroad Retirement Board",
+    "k3:x-axis": "Railroad Retirement Board",
+    "k3:y-axis": 487000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/436>"
+},
+{
+    "rdfs:label": "Agency for Healthcare Research and Quality",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/291>"
+},
+{
+    "rdfs:label": "Federal Aviation Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 169000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/97>"
+},
+{
+    "rdfs:label": "Military Personnel",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 1574000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/394>"
+},
+{
+    "rdfs:label": "Insular Affairs",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/136>"
+},
+{
+    "rdfs:label": "Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 7000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/477>"
+},
+{
+    "rdfs:label": "Executive Residence at the White House",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/91>"
+},
+{
+    "rdfs:label": "Veterans Health Administration",
+    "k3:x-axis": "Veterans Affairs",
+    "k3:y-axis": 2289000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/285>"
+},
+{
+    "rdfs:label": "Drug Enforcement Administration",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/80>"
+},
+{
+    "rdfs:label": "Includes: Earnings on Investments, Native American Institutions Endowment Fund",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/472>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 22000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/334>"
+},
+{
+    "rdfs:label": "Government Printing Office",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/125>"
+},
+{
+    "rdfs:label": "Office of the General Counsel",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/220>"
+},
+{
+    "rdfs:label": "Office of the Secretary",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 11000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/224>"
+},
+{
+    "rdfs:label": "Alcohol and Tobacco Tax and Trade Bureau",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 21000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/295>"
+},
+{
+    "rdfs:label": "Program Support Center",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 10000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/242>"
+},
+{
+    "rdfs:label": "Office of Innovation and Improvement",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 2804000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/203>"
+},
+{
+    "rdfs:label": "Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 146000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/443>"
+},
+{
+    "rdfs:label": "Animal and Plant Health Inspection Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 4000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/297>"
+},
+{
+    "rdfs:label": "National Mediation Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/175>"
+},
+{
+    "rdfs:label": "Supreme Court of the United States",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/451>"
+},
+{
+    "rdfs:label": "National Telecommunications and Information Administration",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/184>"
+},
+{
+    "rdfs:label": "Rural Development",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 25000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/252>"
+},
+{
+    "rdfs:label": "Includes: Miscellaneous Trust Funds",
+    "k3:x-axis": "Appalachian Regional Commission",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/298>"
+},
+{
+    "rdfs:label": "Insular Affairs",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/381>"
+},
+{
+    "rdfs:label": "Federal Transit Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 305000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/363>"
+},
+{
+    "rdfs:label": "Federal Motor Carrier Safety Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 26000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/360>"
+},
+{
+    "rdfs:label": "United States Secret Service",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 64000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/282>"
+},
+{
+    "rdfs:label": "Federal Emergency Management Agency",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 1013000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/355>"
+},
+{
+    "rdfs:label": "Harry S Truman Scholarship Foundation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/127>"
+},
+{
+    "rdfs:label": "Federal Aviation Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 1091000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/353>"
+},
+{
+    "rdfs:label": "Radiation Exposure Compensation",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/435>"
+},
+{
+    "rdfs:label": "Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/359>"
+},
+{
+    "rdfs:label": "Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/219>"
+},
+{
+    "rdfs:label": "Domestic Nuclear Detection Office",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 39000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/79>"
+},
+{
+    "rdfs:label": "Bureau of Indian Affairs and Bureau of Indian Education",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/22>"
+},
+{
+    "rdfs:label": "Includes: Rural Electrification and Telephone Loans, Negative Subsidies",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 127000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/56>"
+},
+{
+    "rdfs:label": "Family Housing",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 7000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/351>"
+},
+{
+    "rdfs:label": "Federal Highway Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 1662000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/102>"
+},
+{
+    "rdfs:label": "Federal Transit Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 119000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/113>"
+},
+{
+    "rdfs:label": "Central Utah Project",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 9000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/34>"
+},
+{
+    "rdfs:label": "Equal Employment Opportunity Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 14000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/90>"
+},
+{
+    "rdfs:label": "Includes: International Registered Traveler Program Fund",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/59>"
+},
+{
+    "rdfs:label": "Includes: Gifts and Donations, Institute of Museum Services",
+    "k3:x-axis": "Institute of Museum and Library Services",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/380>"
+},
+{
+    "rdfs:label": "Office of Navajo and Hopi Indian Relocation",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/212>"
+},
+{
+    "rdfs:label": "FDIC_Office of Inspector General",
+    "k3:x-axis": "Federal Deposit Insurance Corporation",
+    "k3:y-axis": 10000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/96>"
+},
+{
+    "rdfs:label": "Social Security Administration",
+    "k3:x-axis": "Social Security Administration",
+    "k3:y-axis": 55095000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/447>"
+},
+{
+    "rdfs:label": "Appalachian Regional Commission",
+    "k3:x-axis": "Appalachian Regional Commission",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/14>"
+},
+{
+    "rdfs:label": "Architectural and Transportation Barriers Compliance Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/16>"
+},
+{
+    "rdfs:label": "Substance Abuse and Mental Health Services Administration",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 17000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/449>"
+},
+{
+    "rdfs:label": "United States Coast Guard",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 14000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/458>"
+},
+{
+    "rdfs:label": "House of Representatives",
+    "k3:x-axis": "Legislative Branch",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/376>"
+},
+{
+    "rdfs:label": "Includes: Advances and Reimbursements, Judiciary Information Technology Fund",
+    "k3:x-axis": "Judicial Branch",
+    "k3:y-axis": 42000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/388>"
+},
+{
+    "rdfs:label": "Bureau of Safety and Environmental Enforcement",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 20000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/28>"
+},
+{
+    "rdfs:label": "Food Safety and Inspection Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 8000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/118>"
+},
+{
+    "rdfs:label": "Administration on Aging",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 457000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/3>"
+},
+{
+    "rdfs:label": "Pipeline and Hazardous Materials Safety Administration",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 76000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/235>"
+},
+{
+    "rdfs:label": "Includes: Interest and Dividends on Non-Federal Securities, National Archives Gift Fund",
+    "k3:x-axis": "National Archives and Records Administration",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/492>"
+},
+{
+    "rdfs:label": "Federal Election Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/100>"
+},
+{
+    "rdfs:label": "Includes: Immigration Examination Fee",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 123000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/323>"
+},
+{
+    "rdfs:label": "Energy Programs",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 401000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/87>"
+},
+{
+    "rdfs:label": "National Aeronautics and Space Administration",
+    "k3:x-axis": "National Aeronautics and Space Administration",
+    "k3:y-axis": 58000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/162>"
+},
+{
+    "rdfs:label": "National Archives and Records Administration",
+    "k3:x-axis": "National Archives and Records Administration",
+    "k3:y-axis": 6000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/165>"
+},
+{
+    "rdfs:label": "U.S. Patent and Trademark Office",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/270>"
+},
+{
+    "rdfs:label": "Includes: Interest Received from Credit Financing Accounts",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 2262000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/483>"
+},
+{
+    "rdfs:label": "Office of Personnel Management",
+    "k3:x-axis": "Office of Personnel Management",
+    "k3:y-axis": 4100000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/416>"
+},
+{
+    "rdfs:label": "Other",
+    "k3:x-axis": "State",
+    "k3:y-axis": 569000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/231>"
+},
+{
+    "rdfs:label": "Office of Workers' Compensation Programs",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/422>"
+},
+{
+    "rdfs:label": "Bureau of the Census",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 7000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/307>"
+},
+{
+    "rdfs:label": "Transportation Security Administration",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/454>"
+},
+{
+    "rdfs:label": "Internal Revenue Service",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 945000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/140>"
+},
+{
+    "rdfs:label": "Retiree Health Care",
+    "k3:x-axis": "Other Defense Civil Programs",
+    "k3:y-axis": 256000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/438>"
+},
+{
+    "rdfs:label": "Citizenship and Immigration Services",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 38000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/36>"
+},
+{
+    "rdfs:label": "Internal Revenue Service",
+    "k3:x-axis": "Treasury",
+    "k3:y-axis": 140000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/490>"
+},
+{
+    "rdfs:label": "Forest Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 241000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/120>"
+},
+{
+    "rdfs:label": "Trust Funds",
+    "k3:x-axis": "Defense - Military",
+    "k3:y-axis": 174000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/455>"
+},
+{
+    "rdfs:label": "Railroad Retirement Board",
+    "k3:x-axis": "Railroad Retirement Board",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/245>"
+},
+{
+    "rdfs:label": "Corporation for National and Community Service",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 13000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/45>"
+},
+{
+    "rdfs:label": "Community Planning and Development",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 31000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/42>"
+},
+{
+    "rdfs:label": "International Trade Administration",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/385>"
+},
+{
+    "rdfs:label": "Departmental Administration",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/66>"
+},
+{
+    "rdfs:label": "Departmental Offices",
+    "k3:x-axis": "Interior",
+    "k3:y-axis": 40000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/74>"
+},
+{
+    "rdfs:label": "Commission on Civil Rights",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/39>"
+},
+{
+    "rdfs:label": "National Institute of Standards and Technology",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 1000000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/405>"
+},
+{
+    "rdfs:label": "Commission of Fine Arts",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/38>"
+},
+{
+    "rdfs:label": "Minority Business Development Agency",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/159>"
+},
+{
+    "rdfs:label": "Office of Inspector General",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/204>"
+},
+{
+    "rdfs:label": "Federal Maritime Commission",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/106>"
+},
+{
+    "rdfs:label": "Power Marketing Administration",
+    "k3:x-axis": "Energy",
+    "k3:y-axis": 589000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/431>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Health and Human Services",
+    "k3:y-axis": 200000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/337>"
+},
+{
+    "rdfs:label": "Includes: Payment from the General Fund, Transportation Trust Fund (Highway)",
+    "k3:x-axis": "Transportation",
+    "k3:y-axis": 88316000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/330>"
+},
+{
+    "rdfs:label": "Includes: Interest and Profit on Investment, Department of Justice Assets Forfeiture Fund",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/479>"
+},
+{
+    "rdfs:label": "Government National Mortgage Association",
+    "k3:x-axis": "Housing and Urban Development",
+    "k3:y-axis": 15000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/124>"
+},
+{
+    "rdfs:label": "Office of Justice Programs",
+    "k3:x-axis": "Justice",
+    "k3:y-axis": 8502000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/207>"
+},
+{
+    "rdfs:label": "Office of Management and Budget",
+    "k3:x-axis": "Executive Office of the President",
+    "k3:y-axis": 3000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/210>"
+},
+{
+    "rdfs:label": "Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts",
+    "k3:x-axis": "Nuclear Regulatory Commission",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/412>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 22000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/70>"
+},
+{
+    "rdfs:label": "Environmental Protection Agency",
+    "k3:x-axis": "Environmental Protection Agency",
+    "k3:y-axis": 106000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/89>"
+},
+{
+    "rdfs:label": "United States Secret Service",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 5000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/465>"
+},
+{
+    "rdfs:label": "Economic Development Administration",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/344>"
+},
+{
+    "rdfs:label": "Federal Mediation and Conciliation Service",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/107>"
+},
+{
+    "rdfs:label": "Includes: Payments from the General Fund for Administrative Cost for Extended Unemployment Benefit, Unemployment Trust Fund",
+    "k3:x-axis": "Labor",
+    "k3:y-axis": 28538000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/326>"
+},
+{
+    "rdfs:label": "Peace Corps",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/234>"
+},
+{
+    "rdfs:label": "National Transportation Safety Board",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/185>"
+},
+{
+    "rdfs:label": "Animal and Plant Health Inspection Service",
+    "k3:x-axis": "Agriculture",
+    "k3:y-axis": 55000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/13>"
+},
+{
+    "rdfs:label": "Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",
+    "k3:x-axis": "Education",
+    "k3:y-axis": 0,
+    "k3:fillColor": "stable",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/475>"
+},
+{
+    "rdfs:label": "International Security Assistance",
+    "k3:x-axis": "International Assistance Programs",
+    "k3:y-axis": 28000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/384>"
+},
+{
+    "rdfs:label": "Immigration and Customs Enforcement",
+    "k3:x-axis": "Homeland Security",
+    "k3:y-axis": 193000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/131>"
+},
+{
+    "rdfs:label": "Departmental Management",
+    "k3:x-axis": "Commerce",
+    "k3:y-axis": 2000,
+    "k3:fillColor": "decrease",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/69>"
+},
+{
+    "rdfs:label": "National Endowment for the Humanities",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 8000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/170>"
+},
+{
+    "rdfs:label": "United States Court of Appeals for Veterans Claims",
+    "k3:x-axis": "Other",
+    "k3:y-axis": 1000,
+    "k3:fillColor": "increase",
+    "@type": ["<http://karma.isi.edu/visualization/Circle>"],
+    "@id": "<item/274>"
+}
+]

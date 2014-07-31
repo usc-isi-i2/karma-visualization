@@ -87,6 +87,23 @@ k3:size rdf:type owl:DatatypeProperty ;
 
 k3:group rdf:type owl:DatatypeProperty ; 
 	rdfs:domain k3:Shape ;
-	rdfs:comment "A literal value to group  shapes." 
+	rdfs:comment "A literal value to group shapes." 
 	.
 
+k3:x-axis rdf:type owl:DatatypeProperty ; 
+	rdfs:domain k3:Shape ;
+	rdfs:comment """Defines the location of a shape on the x-axis.
+	The value can be a number or a string. When the value is a number, 
+	the scale should go from the minimum number to the maximum number 
+	of all the shapes in the chart. When the value is a string,
+	the x-axis will show ordinal values.""" 
+	.
+
+k3:y-axis rdf:type owl:DatatypeProperty ; 
+	rdfs:domain k3:Shape ;
+	rdfs:comment """Defines the location of a shape on the y-axis.
+	The value can be a number or a string. When the value is a number, 
+	the scale should go from the minimum number to the maximum number 
+	of all the shapes in the chart. When the value is a string,
+	the y-axis will show ordinal values.""" 
+	.
