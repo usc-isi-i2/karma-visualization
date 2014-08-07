@@ -19,6 +19,8 @@ function getQueryStr(str){
         var centery;
         var r = 280;
         var padding = 10;
+        var xpad = 250;
+        var ypad = 50;
         var circlepad = 1.5;
         var clusterpad = 6;
         var dsize = 7;
@@ -34,12 +36,15 @@ function getQueryStr(str){
         var frequency = [];
         var strokeset = [];
         var widthset = [];
+        var xset = [];
 
         //help
         var indexnow = 0;
         var turn = true;
         var small = 1;
         var large = 50;
+        var low = 0;
+        var high = h;
         var maxsize = 0;
         var minsize = 0;
         var save;
@@ -76,29 +81,6 @@ function getQueryStr(str){
         rects = groups.selectAll("rect");
         circles = svg.selectAll("circle");
         sticks = svg.selectAll("line");
-       /* bigrect = svg.append("rect")
-                     .attr("width", w)
-                     .attr("height", h)
-                     .attr("fill", "white")
-                     .on("click",function(){
-                        force.resume();
-                        if(turn)
-                        {
-                            //for(var i = 0;i < numcluster;i++)
-                              //  centery[i] = h / 2;
-                            for(var i = 0;i < groupset.length;i++)
-                                centerx[i] = w / 2;
-                            turn = false;
-                        }
-                        else
-                        {
-                            //for(var i = 0;i < numcluster;i++)
-                              //  centery[i] =  h / (numcluster+5) * (i+3);
-                            for(var i = 0;i < groupset.length;i++)
-                                centerx[i] = w / (groupset.length+1) * (i+1) + 50;
-                            turn = true;
-                        }
-                        });*/
 
         //force layout
         var force = d3.layout.force()   
@@ -109,8 +91,17 @@ function getQueryStr(str){
 
         //scales
         var colorscale = d3.scale.ordinal().range(d3.scale.category10().range());
-        var sizescale = d3.scale.linear().range([small, large]);          
+        var sizescale = d3.scale.linear().range([small, large]);
+        var xscale = d3.scale.ordinal().rangePoints([xpad*1.25, w-xpad*1.25], 0);
+        var yscale = d3.scale.linear().range([h-ypad, ypad]);        
         
+        //axis
+        var xAxis = d3.svg.axis()
+						  .scale(xscale)
+						  .orient("bottom");
+        var yAxis = d3.svg.axis()
+                          .scale(yscale)
+                          .orient("left");
         //find defferent id for circles
          var find = function(x)
             {
@@ -175,7 +166,22 @@ function getQueryStr(str){
                   .attr("y1", function(d){return d.y + 2*sizescale(d.size);})
                   .attr("y2", function(d){return d.y - 2*sizescale(d.size);});
         }
-
+        
+        var tickforaxis = function(e)
+        {
+            datacircle.forEach(movetoposition(e.alpha));
+            //datacircle.forEach(collide(e.alpha));
+            circles.attr("cx", function(d){return d.x;})
+                    .attr("cy", function(d){return d.y;});
+        }
+        var movetoposition = function(alpha)
+        {
+            return function(d)
+            {
+                d.x += (xscale(d.xaxis) - d.x) * 0.1 * alpha;
+                d.y += (yscale(d.yaxis) - d.y) * 0.1 * alpha;
+            }
+        }
         var movetocenter = function(alpha)
         {
             return function(d)
@@ -305,6 +311,21 @@ function getQueryStr(str){
                         {
                             n.label = data[i]["rdfs:label"];
                         }
+                        if(data[i]["k3:x-axis"] != null)
+                        {
+                            n.xaxis = data[i]["k3:x-axis"];
+                            if(xset.indexOf(data[i]["k3:x-axis"]) == -1)
+                            {
+                                xset.push(data[i]["k3:x-axis"]);
+                            }
+                        }
+                        if(data[i]["k3:y-axis"] != null)
+                        {
+                            if(typeof(data[i]["k3:y-axis"]) == "number")
+                                n.yaxis = data[i]["k3:y-axis"];
+                            else
+                                n.yaxis = 0;
+                        }
                         datacircle.push(n);
                     }
 
@@ -376,11 +397,17 @@ function getQueryStr(str){
                     .charge(function(d){ return -0.15 * sizescale(d.size) * sizescale(d.size);})
                      .start();
                 var c = Math.floor(Math.random() * 10);
+
+                //x,yscale
+                xscale.domain(xset);
+                yscale.domain([d3.min(datacircle, function(d){return d.yaxis;}), d3.max(datacircle, function(d){return d.yaxis;})]);
                 // draw elements
                 circles = circles.data(datacircle)
                                  .enter()
                                  .append("circle")
                                  .attr("r", function(d){
+                                            if(sizescale(d.size) <= 3)
+                                                return 3;
                                             return sizescale(d.size);
                                          })
                                 .attr("fill", function(d){
@@ -470,7 +497,8 @@ function getQueryStr(str){
                          .attr("x", function(d){return centerx[groupset.indexOf(d)] - 40;})
                          .attr("y", 40)
                          .text("");   
-                            
+                    tick = tickforcluster;
+                    force.charge(function(d){ return -0.15 * sizescale(d.size) * sizescale(d.size);}).on("tick", tick);
                     turn = false;
                 };      
                 document.getElementById("group").onclick = function(){ 
@@ -485,4 +513,12 @@ function getQueryStr(str){
                          .text(function(d){return d.substr(0,20)});
                     turn = true;
                     };
+                document.getElementById("axis").onclick = function()
+                {
+                    svg.append("g").transition().duration(1000).attr("transform", "translate(" + 1.25*xpad + ", 0)").call(yAxis);
+                    svg.append("g").attr("class", "xaxis").attr("transform", "translate(0,"+ (h - ypad) + ")").call(xAxis);
+                    tick = tickforaxis;
+                    force.charge(0).on("tick", tick);
+                }
+
 
